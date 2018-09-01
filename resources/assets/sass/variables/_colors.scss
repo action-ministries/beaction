@@ -1,0 +1,39 @@
+// Colors
+$white: #fefefe;
+$black: #252525;
+$light-text-color: $white;
+$dark-text-color: $black;
+$blue: #398CBD;
+$purple: #AF7AF2;
+$salmon: #F06165;
+$yellow: #F2F07A;
+
+
+.darkbg {
+  background-color: $black;
+  color: $light-text-color;
+}
+.bluebg {
+  background-color: $blue;
+  color: $light-text-color;
+}
+.purplebg {
+  background-color: $purple;
+  color: $light-text-color;
+}
+.yellowbg {
+  background-color: $yellow;
+  color: $dark-text-color;
+}
+.salmonbg {
+  background-color: $salmon;
+  color: $light-text-color;
+}
+.btn-purple {
+  background-color: $purple !important;
+  border-color: $purple !important;
+  &:hover {
+    background-color: darken($purple, 20%) !important;
+    border-color: darken($purple, 20%) !important;
+  }
+}
