@@ -13,5 +13,6 @@
     @include('partials/nav')
     @yield('content')
     @include('partials/footer')
+    @include('partials/plan-a-visit')
 </body>
 </html>

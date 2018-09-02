@@ -15,6 +15,17 @@ Route::get('/', function() {
     return view('pages.home');
 });
 
+Route::get('about', function() {
+    return view('pages.about');
+});
+
+Route::get('serve', function() {
+    return view('pages.serve');
+});
+Route::get('connect', function() {
+    return view('pages.connect');
+});
+
 Route::get('/welcome', function () {
     return view('welcome');
 });
