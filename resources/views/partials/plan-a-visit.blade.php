@@ -9,9 +9,9 @@
                 <p>Interested in ACTION Christian Center?  We'd love to meet you!</p>
             </div>
             <div class="modal-body">
-                <div class="row">
-                    <div class="col-sm-6">
-                        <form role="form">
+                <form role="form">
+                    <div class="row">
+                        <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="firstname">First Name*</label>
                                 <input type="text" class="form-control input-lg" id="firstname" placeholder="Enter first name">
@@ -24,42 +24,40 @@
                                 <label for="visitdt">Date of visit*</label>
                                 <input type="text" class="form-control input-lg" id="visitdt" placeholder="mm/dd/yyyy">
                             </div>
-                        </form>
+                        </div>
                     </div>
                     <div class="col-sm-6">
-                        <form role="form">
-                            <div class="form-group">
-                                <label for="lastname">Last Name*</label>
-                                <input type="text" class="form-control input-lg" id="lastname" placeholder="Enter last name">
-                            </div>
-                            <div class="form-group">
-                                <label for="phoneno">Phone Number</label>
-                                <input type="text" class="form-control input-lg" id="phoneno" placeholder="Enter phone number">
-                            </div>
-                            <b>  Who's Attending here</b>
-                            <div class="row">
-                                <div class="col-sm-3 nopad">
-                                    <div class="form-group">
-                                        <input type="number" class="form-control input-lg" name="adult-quantity" id="adult-quantity" min="1" max="10">
-                                    </div>
-                                </div>
-                                <div class="col-sm-3 align-self-center">
-                                    <label for="adult-quantity">Adults</label>
-                                </div>
-                                <div class="col-sm-3 nopad">
-                                    <div class="form-group">
-                                        <input type="number" class="form-control input-lg" name="child-quantity" id="child-quantity" min="1" max="10">
-                                    </div>
-                                </div>
-                                <div class="col-sm-2 align-self-center">
-                                    <label for="child-quantity">Children</label>
+                        <div class="form-group">
+                            <label for="lastname">Last Name*</label>
+                            <input type="text" class="form-control input-lg" id="lastname" placeholder="Enter last name">
+                        </div>
+                        <div class="form-group">
+                            <label for="phoneno">Phone Number</label>
+                            <input type="text" class="form-control input-lg" id="phoneno" placeholder="Enter phone number">
+                        </div>
+                        <b>  Who's Attending here</b>
+                        <div class="row">
+                            <div class="col-sm-3 nopad">
+                                <div class="form-group">
+                                    <input type="number" class="form-control input-lg" name="adult-quantity" id="adult-quantity" min="1" max="10">
                                 </div>
                             </div>
+                            <div class="col-sm-3 align-self-center">
+                                <label for="adult-quantity">Adults</label>
+                            </div>
+                            <div class="col-sm-3 nopad">
+                                <div class="form-group">
+                                    <input type="number" class="form-control input-lg" name="child-quantity" id="child-quantity" min="1" max="10">
+                                </div>
+                            </div>
+                            <div class="col-sm-2 align-self-center">
+                                <label for="child-quantity">Children</label>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <button type="submit" class="btn btn-primary btn-center">Submit</button>
+                </form>
             </div>
-            </form>
+            <button type="submit" class="btn btn-primary btn-center">Submit</button>
         </div>
     </div>
 </div>

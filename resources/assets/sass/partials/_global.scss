@@ -28,6 +28,7 @@ iframe {
   color: $white;
   &:hover {
     background-color: darken($purple, 20%) !important;
+    color: $white !important;
     border-color: darken($purple, 20%) !important;
   }
 }
@@ -64,9 +65,24 @@ iframe {
   }
 }
 .modal-open {
+  .modal {
+    &.fade {
+      &.in {
+        .modal-header {
+          text-align: center;
+        }
+        &:not(.show) {
+          opacity: 1;
+        }
+      }
+    }
+  }
+
   .modal-backdrop {
     &.fade {
-      opacity: .5;
+      &.in {
+        opacity: .5;
+      }
     }
   }
 }
@@ -76,6 +92,7 @@ iframe {
     width: 60%;
     max-width: 100%;
     .modal-header {
+      align-items: center;
       flex-direction: column;
       border: none;
       .close {
