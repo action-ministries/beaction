@@ -21,6 +21,6 @@
         "popper.js": "^1.14.4"
     },
     "dependencies": {
-        "font-awesome": "^4.7.0"
+        "@fortawesome/fontawesome-free": "^5.3.1"
     }
 }

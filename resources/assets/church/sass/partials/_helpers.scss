@@ -1,0 +1,25 @@
+.nopad {
+  padding: 0;
+}
+.morepad {
+  padding: 60px;
+}
+.mb15 {
+  margin-bottom: 15px;
+}
+.mb25 {
+  margin-bottom: 25px;
+}
+
+.mb50 {
+  margin-bottom: 50px;
+}
+.flip {
+  .row {
+    .col-lg-6 {
+      &.content {
+        order: -1;
+      }
+    }
+  }
+}

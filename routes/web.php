@@ -11,21 +11,36 @@
 |
 */
 
-Route::get('/', function() {
-    return view('pages.home');
-});
+$ministyRoutes = function(){
+    Route::get('/', function() {
+        return view('ministry.pages.index');
+    });
+};
 
-Route::get('about', function() {
-    return view('pages.about');
-});
+$churchRoutes = function() {
+    Route::get('/', function() {
+        return view('church.pages.home');
+    });
 
-Route::get('serve', function() {
-    return view('pages.serve');
-});
-Route::get('connect', function() {
-    return view('pages.connect');
-});
+    Route::get('about', function() {
+        return view('church.pages.about');
+    });
 
-Route::get('/welcome', function () {
-    return view('welcome');
-});
+    Route::get('serve', function() {
+        return view('church.pages.serve');
+    });
+    Route::get('next-steps', function() {
+        return view('church.pages.next-steps');
+    });
+
+    Route::get('/welcome', function () {
+        return view('welcome');
+    });
+};
+
+// Ministry Routes
+Route::group(['domain' => 'dev.'.env('APP_DOMAIN', 'accs.com')], $ministyRoutes);
+
+// Church Routes
+Route::group(['domain' => 'dev.church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
+Route::group(['domain' => 'church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);

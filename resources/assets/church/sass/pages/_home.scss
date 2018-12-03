@@ -1,0 +1,24 @@
+.jumbotron.home {
+  padding: 175px 50px 75px;
+  margin-bottom: 0;
+  background: {
+    image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, .75)), url("../img/pastorIke2.jpg");
+    position: center 0;
+    repeat: no-repeat;
+    size: cover;
+  }
+
+  .hero-text {
+    text-align: right;
+    color: $white;
+    p {
+      font-size: 16px;
+    }
+
+    h1 {
+      &.title {
+        font-size: 48px;
+      }
+    }
+  }
+}
