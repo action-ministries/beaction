@@ -31,51 +31,51 @@
         <div class="row mb50">
             <div class="col-lg-4">
                 <div class="media">
-                    <img src="{{ asset('img/pastorIke.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/pastorIke.png') }}" alt="" class="align-self-center mr-3 img-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Pastor Ike M.
                             <small class="text-muted">Senior Pastor</small>
                         </h3>
                         <div class="social-icons">
-                            <a href="#"><i class="fa fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fa fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fa fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fa fa-snapchat snapchat-text"></i></a>
+                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
+                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
+                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
+                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="media">
-                    <img src="{{ asset('img/minelijah.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/minelijah.png') }}" alt="" class="align-self-center mr-3 img-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Min. Elijah W.
                             <small class="text-muted">Asst. Pastor/RECLAIM President</small>
                         </h3>
                         <div class="social-icons">
-                            <a href="#"><i class="fa fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fa fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fa fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fa fa-snapchat snapchat-text"></i></a>
+                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
+                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
+                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
+                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="media">
-                    <img src="{{ asset('img/casandra.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/casandra.png') }}" alt="" class="align-self-center mr-3 img-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Casandra D.
                             <small class="text-muted">ALIVE President/ACTION CEO</small>
                         </h3>
                         <div class="social-icons">
-                            <a href="#"><i class="fa fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fa fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fa fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fa fa-snapchat snapchat-text"></i></a>
+                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
+                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
+                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
+                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
                         </div>
                     </div>
                 </div>
@@ -84,34 +84,34 @@
         <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
                 <div class="media">
-                    <img src="{{ asset('img/felicia.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/felicia.png') }}" alt="" class="align-self-center mr-3 img-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Felicia H.
                             <small class="text-muted">Youth Leader</small>
                         </h3>
                         <div class="social-icons">
-                            <a href="#"><i class="fa fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fa fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fa fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fa fa-snapchat snapchat-text"></i></a>
+                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
+                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
+                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
+                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="media">
-                    <img src="{{ asset('img/courtney.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/courtney.png') }}" alt="" class="align-self-center mr-3 img-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Courtney W.
                             <small class="text-muted">Choir Director</small>
                         </h3>
                         <div class="social-icons">
-                            <a href="#"><i class="fa fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fa fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fa fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fa fa-snapchat snapchat-text"></i></a>
+                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
+                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
+                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
+                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
                         </div>
                     </div>
                 </div>

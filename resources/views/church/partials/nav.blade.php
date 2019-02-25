@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <a class="navbar-brand" href="{{ url('/') }}">
-        <img src="{{ asset('img/actionlogo.png') }}" alt="{{ asset('img/actionlogo.png') }}" class="d-inline-block align-top" />
+        <img src="{{ asset('church/img/actionlogo.png') }}" alt="{{ asset('church/img/actionlogo.png') }}" class="d-inline-block align-top" />
         ACTION Christian Center
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

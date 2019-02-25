@@ -11,7 +11,8 @@ let mix = require('laravel-mix');
  |
  */
 mix.js('resources/assets/church/js/app.js', 'public/church/js')
-   .sass('resources/assets/church/sass/app.scss', 'public/church/css')
+    .js('resources/assets/ministry/js/app.js', 'public/ministry/js')
+    .sass('resources/assets/church/sass/app.scss', 'public/church/css')
     .sass('resources/assets/ministry/sass/app.scss', 'public/ministry/css')
     .version();
 

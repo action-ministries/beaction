@@ -14,7 +14,7 @@
     <div class="row salmonbg flip">
         <div class="row">
             <div class="col-lg-6 nopad">
-                <img src="{{ asset('/img/church.jpg') }}" class="img-fluid" />
+                <img src="{{ asset('church/img/church.jpg') }}" class="img-fluid" />
             </div>
             <div class="col-lg-6 nopad content text-right">
                 <div class="wrap">
@@ -37,7 +37,7 @@
     <div class="row yellowbg">
         <div class="row">
             <div class="col-lg-6 nopad">
-                <img src="{{ asset('img/children.jpg') }}" class="img-fluid" />
+                <img src="{{ asset('church/img/children.jpg') }}" class="img-fluid" />
             </div>
             <div class="col-lg-6 nopad content">
                 <div class="wrap">

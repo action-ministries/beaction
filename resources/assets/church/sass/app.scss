@@ -1,15 +1,12 @@
-.church {
-  // Variables
-  @import "variables/variables";
-  //@import "variables/variables";
-  // Font Awesome
-  @import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
-  // Bootstrap
-  @import "~bootstrap/scss/bootstrap";
-  // Global
-  @import "partials/partials";
-  @import "partials/partials";
-  // Pages
-  //@import "pages/pages";
-  @import "pages/pages";
+html {
+  scroll-behavior: smooth;
+
+  .church {
+    // Variables
+    @import "variables/variables";
+    // Global
+    @import "partials/partials";
+    // Pages
+    @import "pages/pages";
+  }
 }

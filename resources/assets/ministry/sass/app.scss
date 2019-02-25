@@ -1,7 +1,14 @@
-.ministry {
-  // Font Awesome
-  @import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
-  // Bootstrap
-  @import "~bootstrap/scss/bootstrap";
-  @import "partials/partials";
+// Bootstrap
+html {
+  scroll-behavior: smooth;
+
+  .ministry {
+    position: relative;
+    // Variables
+    @import "variables/variables";
+    // Partials
+    @import "partials/partials";
+    // Pages
+    @import "pages/pages";
+  }
 }

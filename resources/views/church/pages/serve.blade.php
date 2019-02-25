@@ -13,7 +13,7 @@
     <!-- ALIVE -->
     <div class="row purplebg">
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('img/womensConference.png') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/womensConference.png') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
         </div>
         <div class="col-xl-6 content">
             <div class="wrap">
@@ -31,13 +31,13 @@
             </div>
         </div>
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('img/mensConference.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/mensConference.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
         </div>
     </div>
     <!--Children -->
     <div class="row yellowbg">
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('img/children1.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/children1.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
         </div>
         <div class="col-xl-6 content">
             <div class="wrap">
@@ -55,7 +55,7 @@
             </div>
         </div>
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('img/wedding.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/wedding.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
         </div>
     </div>
 @endsection

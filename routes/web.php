@@ -20,7 +20,7 @@ $ministyRoutes = function(){
 $churchRoutes = function() {
     Route::get('/', function() {
         return view('church.pages.home');
-    });
+    })->name('church-home');
 
     Route::get('about', function() {
         return view('church.pages.about');
@@ -40,7 +40,9 @@ $churchRoutes = function() {
 
 // Ministry Routes
 Route::group(['domain' => 'dev.'.env('APP_DOMAIN', 'accs.com')], $ministyRoutes);
+Route::group(['domain' => 'www'.env('APP_DOMAIN', 'accs.com')], $ministyRoutes);
+Route::group(['domain' => env('APP_DOMAIN', 'accs.com')], $ministyRoutes);
 
 // Church Routes
-Route::group(['domain' => 'dev.church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
 Route::group(['domain' => 'church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
+Route::group(['domain' => 'dev.church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
