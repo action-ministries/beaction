@@ -2,7 +2,6 @@
   min-height: 100px;
   box-shadow: 4px 4px 8px rgba($black, .4);
   .navbar-brand {
-    font-size: 2em;
     display: flex;
     align-items: center;
     > img {
@@ -19,13 +18,12 @@
       }
       .nav-link {
         font: {
-          size: 2em;
           weight: 700;
         }
       }
       .btn {
         font: {
-          size: 2em;
+          size: 1em;
           weight: 700;
         }
         padding: 10px 20px;

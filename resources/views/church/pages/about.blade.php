@@ -4,7 +4,7 @@
     <!-- Who are we? -->
     <div class="jumbotron about salmonbg text-center">
         <div class="row">
-            <div class="col-lg-6 col-lg-offset-3">
+            <div class="col-lg-6 offset-lg-3">
                 <h2>Who Are We?</h2>
                 <p>A Family. A Community. A Church.</p>
             </div>
@@ -21,7 +21,7 @@
     <!-- Leadership -->
     <div class="jumbotron about yellowbg text-center">
         <div class="row">
-            <div class="col-lg-6 col-lg-offset-3">
+            <div class="col-lg-6 offset-lg-3">
                 <h2>Leadership</h2>
                 <p>Our staff is a spirited team that direct various ministries of ACC.</p>
             </div>
@@ -31,41 +31,33 @@
         <div class="row mb50">
             <div class="col-lg-4">
                 <div class="media">
-                    <img src="{{ asset('church/img/pastorIke.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/pastorIke.png') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Pastor Ike M.
                             <small class="text-muted">Senior Pastor</small>
                         </h3>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="media">
-                    <img src="{{ asset('church/img/minelijah.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/minelijah.jpg') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Min. Elijah W.
                             <small class="text-muted">Asst. Pastor/RECLAIM President</small>
                         </h3>
                         <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
+                            <a href="https://instagram.com/sayhelloelijah" target="_blank"><i class="fab fa-instagram instagram-text"></i></a>
+                            <a href="https://twitter.com/sayhelloelijah" target="_blank"><i class="fab fa-twitter twitter-text"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="media">
-                    <img src="{{ asset('church/img/casandra.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/casandra.png') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Casandra D.
@@ -82,9 +74,9 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 col-lg-offset-2">
+            <div class="col-lg-4 offset-lg-2">
                 <div class="media">
-                    <img src="{{ asset('church/img/felicia.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/felicia.png') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Felicia H.
@@ -101,7 +93,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="media">
-                    <img src="{{ asset('church/img/courtney.png') }}" alt="" class="align-self-center mr-3 img-circle">
+                    <img src="{{ asset('church/img/courtney.jpg') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Courtney W.
@@ -121,7 +113,7 @@
     <!-- Our Beliefs -->
     <div class="jumbotron about purplebg text-center">
         <div class="row">
-            <div class="col-lg-6 col-lg-offset-3">
+            <div class="col-lg-6 offset-lg-3">
                 <h2>Our Beliefs</h2>
                 <p>Our beliefs are founded on the firm foundation of the Word of God, and guide us in all that we do.</p>
             </div>

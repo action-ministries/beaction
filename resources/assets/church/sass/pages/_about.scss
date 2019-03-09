@@ -1,11 +1,18 @@
 .jumbotron.about {
   padding: 150px 50px;
+  &:first-of-type {
+    margin-top: 100px;
+  }
 }
 .leadership {
   .row {
     .media {
+      img {
+        width: 100px;
+      }
       .media-body {
         h3 {
+          font-size: 2em;
           small {
             font-size: 14px;
             margin-top: 1px;

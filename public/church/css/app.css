@@ -2,8 +2,7 @@
   scroll-behavior: smooth;
 }
 
-html .church {
-}
+
 
 html .church .darkbg {
   background-color: #252525 !important;
@@ -46,15 +45,6 @@ html .church .twitter-text {
 
 html .church .snapchat-text {
   color: #FFFB00;
-}
-
-@font-face {
-  html .church {
-    font-family: 'albertoregular';
-    src: url(/fonts/alberto-regular-webfont.woff2?ca0856b1e1a04859a8e729398127cded) format("woff2"), url(/fonts/alberto-regular-webfont.woff?79eb2cde50131770e48e4abe8f539482) format("woff");
-    font-weight: normal;
-    font-style: normal;
-  }
 }
 
 html .church body {
@@ -242,7 +232,12 @@ html .church .flip .row .col-lg-6.content {
           order: -1;
 }
 
-html .church h1, html .church h2, html .church h3, html .church h4, html .church h5, html .church h6 {
+html .church h1,
+html .church h2,
+html .church h3,
+html .church h4,
+html .church h5,
+html .church h6 {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
@@ -275,8 +270,11 @@ html .church p {
   font-size: 16px;
 }
 
-html .church .jumbotron.home h2, html .church .jumbotron.about h2, html .church .jumbotron.serve h2, html .church .jumbotron.connect h2 {
-  font-size: 6.5em;
+html .church .jumbotron.home h2,
+html .church .jumbotron.about h2,
+html .church .jumbotron.serve h2,
+html .church .jumbotron.connect h2 {
+  font-size: 4em;
 }
 
 html .church .navbar {
@@ -286,7 +284,6 @@ html .church .navbar {
 }
 
 html .church .navbar .navbar-brand {
-  font-size: 2em;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -310,12 +307,11 @@ html .church .navbar .navbar-nav .nav-item:last-child {
 }
 
 html .church .navbar .navbar-nav .nav-item .nav-link {
-  font-size: 2em;
   font-weight: 700;
 }
 
 html .church .navbar .navbar-nav .nav-item .btn {
-  font-size: 2em;
+  font-size: 1em;
   font-weight: 700;
   padding: 10px 20px;
 }
@@ -344,11 +340,23 @@ html .church .jumbotron.home .hero-text p {
 }
 
 html .church .jumbotron.home .hero-text h1.title {
-  font-size: 48px;
+  font-size: 3.9em;
 }
 
 html .church .jumbotron.about {
   padding: 150px 50px;
+}
+
+html .church .jumbotron.about:first-of-type {
+  margin-top: 100px;
+}
+
+html .church .leadership .row .media img {
+  width: 100px;
+}
+
+html .church .leadership .row .media .media-body h3 {
+  font-size: 2em;
 }
 
 html .church .leadership .row .media .media-body h3 small {
@@ -375,6 +383,7 @@ html .church .beliefs li {
 
 html .church .jumbotron.serve {
   padding: 150px 50px;
+  margin-top: 100px;
   margin-bottom: 0;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(black)), url(/images/pastorIke-minElijah.jpg?77df4bec28bc2b2c12647003ae1cd91c);
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), black), url(/images/pastorIke-minElijah.jpg?77df4bec28bc2b2c12647003ae1cd91c);
@@ -382,3 +391,4 @@ html .church .jumbotron.serve {
   background-repeat: no-repeat;
   background-size: cover;
 }
+

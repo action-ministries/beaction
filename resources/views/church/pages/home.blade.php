@@ -3,7 +3,7 @@
 @section('content')
     <div class="jumbotron home">
         <div class="row">
-            <div class="hero-text col-lg-4 col-lg-offset-7">
+            <div class="hero-text col-lg-5 offset-lg-6">
                 <h1 class="title">A Place For You</h1>
                 <p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam assumenda commodi expedita maxime voluptate. Itaque libero odio perferendis quia tenetur?</p>
                 <a href="#" class="btn btn-ghost">Button</a>
@@ -27,7 +27,7 @@
     </div>
     <!-- Section 2 -->
     <div class="row whitebg morepad text-center flip">
-        <div class="col-lg-4 col-lg-offset-4">
+        <div class="col-lg-8 offset-lg-2">
             <h2>Want to Know More?</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores at atque cum distinctio ea exercitationem facere impedit nihil provident quasi!</p>
             <a href="#" class="btn btn-primary">Button</a>
