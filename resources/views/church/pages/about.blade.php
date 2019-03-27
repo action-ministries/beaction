@@ -46,12 +46,8 @@
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Min. Elijah W.
-                            <small class="text-muted">Asst. Pastor/RECLAIM President</small>
+                            <small class="text-muted">Assoc. Pastor/RECLAIM President</small>
                         </h3>
-                        <div class="social-icons">
-                            <a href="https://instagram.com/sayhelloelijah" target="_blank"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="https://twitter.com/sayhelloelijah" target="_blank"><i class="fab fa-twitter twitter-text"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -61,14 +57,8 @@
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Casandra D.
-                            <small class="text-muted">ALIVE President/ACTION CEO</small>
+                            <small class="text-muted">Cheif of Staff/ALIVE President</small>
                         </h3>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -76,38 +66,26 @@
         <div class="row">
             <div class="col-lg-4 offset-lg-2">
                 <div class="media">
-                    <img src="{{ asset('church/img/felicia.png') }}" alt="" class="mr-3 rounded-circle">
-                    <div class="media-body align-self-center">
-                        <h3 class="mt-0">
-                            Felicia H.
-                            <small class="text-muted">Youth Leader</small>
-                        </h3>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="media">
                     <img src="{{ asset('church/img/courtney.jpg') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Courtney W.
-                            <small class="text-muted">Choir Director</small>
+                            <small class="text-muted">Worship Leader</small>
                         </h3>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4">
+                    <div class="media">
+                        <img src="{{ asset('church/img/felicia.png') }}" alt="" class="mr-3 rounded-circle">
+                        <div class="media-body align-self-center">
+                            <h3 class="mt-0">
+                                Felicia H.
+                                <small class="text-muted">Youth Leader</small>
+                            </h3>
+                        </div>
+                    </div>
+                </div>
         </div>
     </div>
     <!-- Our Beliefs -->
