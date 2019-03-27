@@ -247,11 +247,11 @@ html .church h1 {
 }
 
 html .church h2 {
-  font-size: 3.5em;
+  font-size: 2.7em;
 }
 
 html .church h3 {
-  font-size: 3em;
+  font-size: 2.5em;
 }
 
 html .church h4 {
@@ -268,6 +268,11 @@ html .church h6 {
 
 html .church p {
   font-size: 16px;
+}
+
+html .church a {
+  color: inherit;
+  text-decoration: underline;
 }
 
 html .church .jumbotron.home h2,
@@ -320,8 +325,26 @@ html .church .navbar .navbar-nav .nav-item.active .nav-link {
   border-bottom: 3px solid #F06165;
 }
 
+html .church footer {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 25px 50px;
+}
+
+html .church footer p {
+  margin: 0;
+  text-align: center;
+}
+
 html .church .jumbotron.home {
-  padding: 175px 50px 75px;
+  padding: 300px 50px 55px;
   margin-bottom: 0;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.25)), to(rgba(0, 0, 0, 0.75))), url(/images/pastorIke2.jpg?5c5efcd10c180edbdae692224c1203c2);
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.75)), url(/images/pastorIke2.jpg?5c5efcd10c180edbdae692224c1203c2);
@@ -341,6 +364,17 @@ html .church .jumbotron.home .hero-text p {
 
 html .church .jumbotron.home .hero-text h1.title {
   font-size: 3.9em;
+}
+
+html .church .know-social-icons {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
 }
 
 html .church .jumbotron.about {

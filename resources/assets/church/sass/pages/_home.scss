@@ -1,5 +1,5 @@
 .jumbotron.home {
-  padding: 175px 50px 75px;
+  padding: 300px 50px 55px;
   margin-bottom: 0;
   background: {
     image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, .75)), url("../img/pastorIke2.jpg");
@@ -21,4 +21,10 @@
       }
     }
   }
+}
+
+.know-social-icons {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
 }

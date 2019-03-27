@@ -5,8 +5,7 @@
         <div class="row">
             <div class="hero-text col-lg-5 offset-lg-6">
                 <h1 class="title">A Place For You</h1>
-                <p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam assumenda commodi expedita maxime voluptate. Itaque libero odio perferendis quia tenetur?</p>
-                <a href="#" class="btn btn-ghost">Button</a>
+                <p class="sub-title">ACC-South is a place just for you. No matter where you are in your walk with Christ, we're here to support you.</p>
             </div>
         </div>
     </div>
@@ -19,8 +18,7 @@
             <div class="col-lg-6 nopad content text-right">
                 <div class="wrap">
                     <h2>New Here?</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aspernatur beatae corporis enim illum ipsum laudantium modi molestias obcaecati, quas qui saepe tempore ut vitae?</p>
-                    <a href="#" class="btn btn-lg btn-primary">Button</a>
+                    <p>We'd really like to connect with you. Send us a message on <a href="https://www.messenger.com/t/ActionMinistries" target="_blank">Facebook Messenger</a>, <a href="https://instagram.com/actionchristiancenter" title="Follow us on Instagram" target="_blank">Instagram</a> or <a href="mailto:actionchristiancentersouth@gmail.com" title="Email Us">Email</a>. </p>
                 </div>
             </div>
         </div>
@@ -29,8 +27,12 @@
     <div class="row whitebg morepad text-center flip">
         <div class="col-lg-8 offset-lg-2">
             <h2>Want to Know More?</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores at atque cum distinctio ea exercitationem facere impedit nihil provident quasi!</p>
-            <a href="#" class="btn btn-primary">Button</a>
+            <p>Follow us or send us a message to find out more about us.</p>
+            <div class="know-social-icons">
+                <a href="https://facebook.com/actionministries" title="Like us on Facebook" target="_blank"><i class="fab fa-3x fa-facebook facebook-text"></i></a>
+                <a href="https://instagram.com/actionchristiancenter" title="Follow us on Instagram" target="_blank"><i class="fab fa-3x fa-instagram instagram-text"></i></a>
+                <a href="mailto:actionchristiancentersouth@gmail.com" title="Email Us"><i class="far fa-3x fa-envelope-open"></i></a>
+            </div>
         </div>
     </div>
     <!-- Section 3 -->
@@ -41,9 +43,8 @@
             </div>
             <div class="col-lg-6 nopad content">
                 <div class="wrap">
-                    <h2>New Here?</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam at doloribus hic iste quam quisquam soluta voluptates. Cupiditate maxime praesentium quos recusandae reprehenderit sunt voluptatem.</p>
-                    <a href="#" class="btn btn-lg btn-purple">Button</a>
+                    <h2>Discover Jesus!</h2>
+                    <p>At ACC-South, children recieve great, age-appropiate, bibical teaching. They're walked through the great Bible stories and after each class, they take time for a short recess in the playground.</p>
                 </div>
             </div>
         </div>
@@ -56,8 +57,8 @@
             </div>
             <div class="col-lg-6 nopad content">
                 <div class="wrap">
-                    <h2>New Here?</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam at doloribus hic iste quam quisquam soluta voluptates. Cupiditate maxime praesentium quos recusandae reprehenderit sunt voluptatem.</p>
+                    <h2>Let's Meet!</h2>
+                    <p>Located inside Greentree Community Church, we have Sunday Services starting at 2pm in the lower level. Park in the rear. Notify us of your coming and we’ll make sure to greet you in the parking lot.</p>
                 </div>
             </div>
         </div>
