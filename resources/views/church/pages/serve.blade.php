@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-lg-6 offset-lg-3">
                 <h1>Ministries</h1>
-                <p>At ACC, we serve one another. There's something for everyone, from the youth to the elderly, whether single, or married. ACC is the place for you.</p>
+                <p>At ACC-South, we serve one another. There's something for everyone, from the youth to the elderly, single or married. ACC-South is the place for you.</p>
             </div>
         </div>
     </div>
@@ -43,6 +43,7 @@
             <div class="wrap">
                 <h2>Children</h2>
                 <p>"See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven"<br /><i>Matthew 18:10</i></p>
+                <p>Taught by Mother Shed with the support of some volunteers from Greentree Community Church. Our children are instructed in the ways of God, through learning about biblical characters and stories.</p>
             </div>
         </div>
     </div>
@@ -52,6 +53,7 @@
             <div class="wrap">
                 <h2>Marriage</h2>
                 <p>“Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh."<br /><i>Gen. 2:24</i></p>
+                <p>We support marriages. Through counseling, and a monthly couples' discussion that happens on every 2<sup>nd</sup> Sunday, immediately following church services.</p>
             </div>
         </div>
         <div class="col-xl-6 nopad">
