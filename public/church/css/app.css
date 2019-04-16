@@ -186,7 +186,7 @@ html .church .content {
 }
 
 html .church .content .wrap {
-  width: 50%;
+  width: 75%;
 }
 
 html .church .content .wrap p {
@@ -275,6 +275,12 @@ html .church a {
   text-decoration: underline;
 }
 
+html .church blockquote {
+  color: #777;
+  font-size: 24px;
+  font-style: italic;
+}
+
 html .church .jumbotron.home h2,
 html .church .jumbotron.about h2,
 html .church .jumbotron.serve h2,
@@ -289,12 +295,13 @@ html .church .navbar {
 }
 
 html .church .navbar .navbar-brand {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-decoration: none;
 }
 
 html .church .navbar .navbar-brand > img {
@@ -312,6 +319,7 @@ html .church .navbar .navbar-nav .nav-item:last-child {
 }
 
 html .church .navbar .navbar-nav .nav-item .nav-link {
+  text-decoration: none;
   font-weight: 700;
 }
 

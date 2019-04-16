@@ -13,7 +13,7 @@
     <!-- ALIVE -->
     <div class="row purplebg">
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('church/img/womensConference.png') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/alive.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
         </div>
         <div class="col-xl-6 content">
             <div class="wrap">
@@ -31,7 +31,7 @@
             </div>
         </div>
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('church/img/mensConference.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/kingdomManTickets.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
         </div>
     </div>
     <!--Children -->
@@ -42,7 +42,7 @@
         <div class="col-xl-6 content">
             <div class="wrap">
                 <h2>Children</h2>
-                <p>Taught by Mother Shed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam consequatur deleniti dolorem earum enim illo, maiores molestias odit pariatur qui quia ratione recusandae, repellendus reprehenderit temporibus, velit vero?</p>
+                <p>"See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven"<br /><i>Matthew 18:10</i></p>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@
         <div class="col-xl-6 content">
             <div class="wrap">
                 <h2>Marriage</h2>
-                <p>Let's get married! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ad corporis minima sapiente, temporibus vel?</p>
+                <p>“Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh."<br /><i>Gen. 2:24</i></p>
             </div>
         </div>
         <div class="col-xl-6 nopad">

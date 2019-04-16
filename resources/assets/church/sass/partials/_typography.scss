@@ -30,6 +30,14 @@ a {
   text-decoration: underline;
 }
 
+blockquote {
+  color: #777;
+  font: {
+    size: 24px;
+    style: italic;
+  }
+}
+
 .jumbotron.home, .jumbotron.about, .jumbotron.serve, .jumbotron.connect {
   h2 {
     font-size: 4em;

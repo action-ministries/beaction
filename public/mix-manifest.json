@@ -1,10 +1,11 @@
 {
     "/church/js/app.js": "/church/js/app.js?id=3276d2d9fba96f282052",
-    "/church/css/app.css": "/church/css/app.css?id=3a2830df6c1918a3f197",
+    "/church/css/app.css": "/church/css/app.css?id=7d09bf560acfae1abc8f",
     "/ministry/css/app.css": "/ministry/css/app.css?id=74161bafb923c48205cd",
     "/ministry/js/app.js": "/ministry/js/app.js?id=cff1658339b78af56a85",
     "/church/img/actionlogo.png": "/church/img/actionlogo.png?id=e6f9f1ee046bc6f5ec9a",
     "/church/img/alive.jpg": "/church/img/alive.jpg?id=a3285c1e169700ea7eda",
+    "/church/img/BBB_Conference.png": "/church/img/BBB_Conference.png?id=ebd208647b33bdadaced",
     "/church/img/casandra.png": "/church/img/casandra.png?id=d49850273a8fcea54265",
     "/church/img/children.jpg": "/church/img/children.jpg?id=d7572c33974d77cf43e2",
     "/church/img/children1.jpg": "/church/img/children1.jpg?id=ff36ad6436b1a485827a",
@@ -32,5 +33,6 @@
     "/church/fonts/generator_config.txt": "/church/fonts/generator_config.txt?id=4dce64e8848e18c45c2f",
     "/church/fonts/Hansief.otf": "/church/fonts/Hansief.otf?id=7d2bbfa24b6b2c0e77fb",
     "/church/fonts/HansiefRough.otf": "/church/fonts/HansiefRough.otf?id=32a9cf94990a5b767a95",
-    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5"
+    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5",
+    "/church/img/kingdomManTickets.jpg": "/church/img/kingdomManTickets.jpg?id=c8930d4a43733fd7e534"
 }

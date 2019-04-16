@@ -11,11 +11,11 @@
 |
 */
 
-$ministryRoutes = function() {
-    Route::get('/', function() {
-        return view('ministry.pages.index');
-    })->name('ministry-home');
-};
+// $ministryRoutes = function() {
+//     Route::get('/', function() {
+//         return view('ministry.pages.index');
+//     })->name('ministry-home');
+// };
 
 $churchRoutes = function() {
     Route::get('/', function() {
@@ -39,10 +39,15 @@ $churchRoutes = function() {
 };
 
 // Ministry Routes
-Route::group(['domain' => 'www.'.env('APP_DOMAIN', 'accs.com')], $ministryRoutes);
-Route::group(['domain' => env('APP_DOMAIN', 'accs.com')], $ministryRoutes);
-Route::group(['domain' => 'dev.'.env('APP_DOMAIN', 'accs.com')], $ministryRoutes);
+// Route::group(['domain' => 'www.'.env('APP_DOMAIN', 'accs.com')], $ministryRoutes);
+// Route::group(['domain' => env('APP_DOMAIN', 'accs.com')], $ministryRoutes);
+// Route::group(['domain' => 'dev.'.env('APP_DOMAIN', 'accs.com')], $ministryRoutes);
+
+// // Church Routes
+// Route::group(['domain' => 'church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
+// Route::group(['domain' => 'dev.church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
+
 
 // Church Routes
-Route::group(['domain' => 'church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
-Route::group(['domain' => 'dev.church.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
+Route::group(['domain' => env('APP_DOMAIN', 'accs.com')], $churchRoutes);
+Route::group(['domain' => 'homestead.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);

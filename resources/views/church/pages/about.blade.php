@@ -12,10 +12,10 @@
     </div>
     <div class="row morepad">
         <div class="col-lg-6">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, dignissimos esse facilis harum ipsa ipsam laboriosam laudantium magni minus modi nesciunt nisi non possimus quas qui repudiandae saepe sequi, unde vitae voluptate. Amet commodi dolorem doloribus et numquam odit, qui quo quod reprehenderit, similique suscipit voluptatem? Architecto, autem delectus est exercitationem fugiat incidunt quod reiciendis sed sit ullam! Accusamus deserunt, ex exercitationem ipsam laborum molestias neque nihil rerum similique velit! Ab accusantium animi autem cumque ea, eius enim fugit id ipsum libero magni molestiae molestias mollitia natus nemo nesciunt nostrum optio perspiciatis.<br /><br />Praesentium quas quisquam quod ratione sapiente sunt suscipit tempore ut velit veritatis voluptates voluptatum. Distinctio est impedit itaque non optio. Et explicabo fugit laboriosam, maiores mollitia optio possimus provident voluptatibus. Accusamus aliquam aut consequatur delectus doloremque doloribus earum, enim error esse eum ex harum illo in libero natus nobis odit perspiciatis quia repudiandae sequi, soluta tempore tenetur voluptas!</p>
+            <p>ACTION Christian Center was founded in June 2016 by our Senior Pastor, Pastor Ike D. Motley, along with 9 other charter members. The church began from a bible study group that meets at the Crown Royal Motorcycle Club. ACTION’s first service was held on July 3, 2016, at the Best Western Hotel in Kirkwood, MO. After a month of services, Pastor Ike met with another local pastor, the pastor of Greentree Community Church. The pastor then opened the doors to the church building to have services. ACTION has been meeting here ever since.</p>
         </div>
         <div class="col-lg-6">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab ad atque deleniti, explicabo id iure laborum magnam maiores nobis, non omnis provident quia repudiandae sed tempore?<br /><br /> Amet asperiores assumenda dicta enim est, explicabo fuga, libero magnam nihil numquam provident, quidem quisquam voluptas. Accusamus aperiam architecto blanditiis commodi delectus doloribus ducimus expedita id illum impedit ipsum iste laborum maxime minus mollitia non, nulla officia officiis omnis placeat quasi quidem quos recusandae sed temporibus ullam ut veniam! Alias amet asperiores aspernatur cupiditate excepturi, facilis fugit laboriosam maiores odio quae saepe similique soluta voluptas!</p>
+            <p>Since our inception we have had a heart towards people. Through our parent ministry, A.C.T.I.O.N. Ministries, we have held the Kingdom Woman & Kingdom Man conferences. We have also worked to get the area’s best Christian worshippers, praise teams, poets, and others to have an exciting night of praise & worship at the Kingdom Worship event this April 27 (2019).</p>
         </div>
     </div>
     <!-- Leadership -->
@@ -48,10 +48,6 @@
                             Min. Elijah W.
                             <small class="text-muted">Asst. Pastor/RECLAIM President</small>
                         </h3>
-                        <div class="social-icons">
-                            <a href="https://instagram.com/sayhelloelijah" target="_blank"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="https://twitter.com/sayhelloelijah" target="_blank"><i class="fab fa-twitter twitter-text"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -63,12 +59,6 @@
                             Casandra D.
                             <small class="text-muted">ALIVE President/ACTION CEO</small>
                         </h3>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -82,12 +72,6 @@
                             Felicia H.
                             <small class="text-muted">Youth Leader</small>
                         </h3>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -99,12 +83,6 @@
                             Courtney W.
                             <small class="text-muted">Choir Director</small>
                         </h3>
-                        <div class="social-icons">
-                            <a href="#"><i class="fab fa-facebook facebook-text"></i></a>
-                            <a href="#"><i class="fab fa-instagram instagram-text"></i></a>
-                            <a href="#"><i class="fab fa-twitter twitter-text"></i></a>
-                            <a href="#"><i class="fab fa-snapchat snapchat-text"></i></a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -146,5 +124,17 @@
     <div class="jumbotron about bluebg text-center">
         <h2>What to Expect</h2>
         <p>At ACC, you'll be greeted by people who are excited to meet you.<br />We welcome all, love all, and accept all. Come as you are and find out more for yourself.</p>
+    </div>
+    <div class="morepad">
+        <div class="row">
+            <div class="col-lg-6">
+                <p>When visiting ACTION Christian Center, you can expect to be greeted by friendly faces. We start services promptly at 2pm with our opening scripture found at Revelation 19:10.</p>
+                <blockquote cite="https://www.bible.com/bible/114/REV.19.NKJV">And I fell at his feet to worship him. But he said to me, “See that you do not do that!I am your fellow servant, and of your brethren who have the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy.</blockquote>
+            </div>
+            <div class="col-lg-6">
+                <p>After our opening, we will have a reading of scripture from the Old & New Testament, then followed by praise and worship. Also, the children in the church sing every Sunday, “Jesus Love Me” before they head to a separate classroom, where they taught by our children’s instructor, Mother Helen Shed. After their lesson, they’re time is filled with playing at the church playground, if the weather permits.</p>
+                <p>Following the children is prayer and a dynamic message from our Senior Pastor, Pastor Ike D. Motley. We would love for you to join us this Sunday. Send us a message on Facebook and we’ll make sure to prepare for your arrival.</p>
+            </div>
+        </div>
     </div>
 @endsection

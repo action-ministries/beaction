@@ -10,7 +10,7 @@
             </div>
             <div class="row">
                 <div class="col-md-3 col-lg-3 col-xl-3">
-                    <img src="{{ asset('/images/minelijah1.jpg') }}" class="img-fluid img-thumbnail" />
+                    <img src="{{ asset('/ministry/img/pastorIkeRed.jpg') }}" class="img-fluid img-thumbnail" alt="Pastor Ike, Senior Pastor" />
                 </div>
                 <div class="col-md-9 col-lg-9 col-xl-9">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci amet asperiores, at aut, corporis deserunt distinctio eligendi et eveniet exercitationem expedita explicabo facere facilis fugit id illum laborum laudantium maxime minima minus molestiae nesciunt nisi non officia pariatur perferendis quaerat quam quibusdam quis quisquam reiciendis repellat repudiandae sed similique veniam vitae. Consequatur expedita hic quas. Cupiditate deserunt, dolorem dolorum ducimus eaque earum facere laboriosam laborum, minus natus necessitatibus nostrum nulla numquam obcaecati quo reprehenderit suscipit tempora totam ullam, ut. Ab consequuntur doloremque ea esse, et impedit magnam nisi perspiciatis recusandae sapiente sint, velit? Aliquid dicta doloremque fugit laborum quidem.</p>
