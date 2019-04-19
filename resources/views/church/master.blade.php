@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    {{ dd(asset('img/pastorIke2.jpg')) }}
     <title>@yield('title') | ACTION Christian Center</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
