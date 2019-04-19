@@ -50,3 +50,4 @@ $churchRoutes = function() {
 
 // Church Routes
 Route::group(['domain' => env('APP_DOMAIN', 'beaction.org')], $churchRoutes);
+Route::group(['domain' => 'homestead.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
