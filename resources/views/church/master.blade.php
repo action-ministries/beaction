@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    {{ dd(asset('img/pastorIke2.jpg')) }}
     <title>@yield('title') | ACTION Christian Center</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,7 +15,7 @@
     <meta property="og:url"           content="{{ url('/') }}" />
 	<meta property="og:type"          content="website" />
 	<meta property="og:title"         content="@yield('title') | ACTION Christian Center" />
-	<meta property="og:image"         content="{{ asset('img/pastorIke2.jpg') }}" />
+	<meta property="og:image"         content="{{ asset('church/img/pastorIke2.jpg') }}" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ mix('/church/css/app.css') }}" />
