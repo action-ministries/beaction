@@ -10,7 +10,7 @@
             </div>
         </div>
     </div>
-    <div class="row morepad">
+    <div class="row morepad mobile-hz-nopad">
         <div class="col-lg-6">
             <p>ACTION Christian Center was founded in June 2016 by our Senior Pastor, Pastor Ike D. Motley, along with 9 other charter members. The church began from a bible study group that meets at the Crown Royal Motorcycle Club. ACTION’s first service was held on July 3, 2016, at the Best Western Hotel in Kirkwood, MO. After a month of services, Pastor Ike met with another local pastor, the pastor of Greentree Community Church. The pastor then opened the doors to the church building to have services. ACTION has been meeting here ever since.</p>
         </div>
@@ -27,9 +27,9 @@
             </div>
         </div>
     </div>
-    <div class="morepad leadership">
-        <div class="row mb50">
-            <div class="col-lg-4">
+    <div class="morepad mobile-hz-nopad leadership">
+        <div class="row mb50 mobile-m0">
+            <div class="col-lg-4 mobile-mb50">
                 <div class="media">
                     <img src="{{ asset('church/img/pastorIke.png') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
@@ -40,7 +40,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 mobile-mb50">
                 <div class="media">
                     <img src="{{ asset('church/img/minelijah.jpg') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
@@ -51,7 +51,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 mobile-mb50">
                 <div class="media">
                     <img src="{{ asset('church/img/casandra.png') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
@@ -64,7 +64,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4 offset-lg-2">
+            <div class="col-lg-4 mobile-mb50 offset-lg-2">
                 <div class="media">
                     <img src="{{ asset('church/img/courtney.jpg') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
@@ -75,7 +75,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 mobile-mb50">
                 <div class="media">
                     <img src="{{ asset('church/img/felicia.png') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
@@ -97,7 +97,7 @@
             </div>
         </div>
     </div>
-    <div class="morepad beliefs">
+    <div class="morepad mobile-hz-nopad beliefs">
         <div class="row">
             <div class="col-lg-6">
                 <ul>
@@ -125,7 +125,7 @@
         <h2>What to Expect</h2>
         <p>At ACC, you'll be greeted by people who are excited to meet you.<br />We welcome all, love all, and accept all. Come as you are and find out more for yourself.</p>
     </div>
-    <div class="morepad">
+    <div class="morepad mobile-hz-nopad">
         <div class="row">
             <div class="col-lg-6">
                 <p>When visiting ACTION Christian Center, you can expect to be greeted by friendly faces. We start services promptly at 2pm with our opening scripture found at Revelation 19:10.</p>

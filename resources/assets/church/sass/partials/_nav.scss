@@ -14,6 +14,11 @@
   .navbar-nav {
     .nav-item {
       padding-right: 35px;
+
+      @media (max-width: 768px) {
+        padding-top: 10px;
+      }
+
       &:last-child {
         padding-right: 0;
       }

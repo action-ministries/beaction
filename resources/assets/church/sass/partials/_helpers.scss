@@ -1,9 +1,40 @@
 .nopad {
   padding: 0;
 }
+
+.mobile-hz-nopad{
+  @media(max-width:768px) {
+    padding: {
+      left: 0 !important;
+      right: 0 !important;
+    }
+  }
+}
+
+.mobile-v-nopad {
+  @media(max-width:768px) {
+    padding: {
+      top: 0 !important;
+      bottom: 0 !important;
+    }
+  }
+}
+
 .morepad {
   padding: 60px;
 }
+.pv60 {
+  padding: {
+    top: 60px;
+    bottom: 60px;
+  }
+}
+.mobile-m0 {
+  @media (max-width: 768px) {
+    margin: 0 !important;
+  }
+}
+
 .mb15 {
   margin-bottom: 15px;
 }
@@ -14,6 +45,12 @@
 .mb50 {
   margin-bottom: 50px;
 }
+.mobile-mb50 {
+  @media (max-width: 768px) {
+    margin-bottom: 50px;
+  }
+}
+
 .flip {
   .row {
     .col-lg-6 {

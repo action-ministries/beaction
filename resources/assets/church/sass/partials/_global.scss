@@ -116,8 +116,18 @@ iframe {
   display: flex;
   align-items: center;
   justify-content: center;
+
+  @media (max-width: 768px) {
+    min-height: 350px;
+  }
+
   .wrap {
     width: 75%;
+    
+    @media (max-width: 768px) {
+      width: 90%;
+    }
+
     p {
       font-size: 16px;
     }
