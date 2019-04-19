@@ -77,7 +77,7 @@
             </div>
             <div class="col-lg-4 mobile-mb50">
                 <div class="media">
-                    <img src="{{ asset('church/img/felicia.png') }}" alt="" class="mr-3 rounded-circle">
+                    <img src="{{ asset('church/img/felicia.jpg') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Felicia H.
