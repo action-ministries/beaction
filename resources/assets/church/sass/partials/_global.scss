@@ -4,9 +4,14 @@ body {
 iframe {
   width: 100%;
   height: 400px;
+
+  @media (min-width: 1600px) {
+    height: 600px;
+  }
 }
 .row {
   margin: 0;
+  width: 100%;
 }
 .btn {
   display: inline-block;
@@ -110,6 +115,10 @@ iframe {
 .jumbotron {
   padding: 75px;
   margin-bottom: 0;
+  
+  @media (min-width: 1600px) {
+    min-height: 600px;
+  }
 }
 
 .content {
@@ -128,8 +137,17 @@ iframe {
       width: 90%;
     }
 
+    @media (min-width: 1600px) {
+      font-size: 1.25em;
+      max-width: 680px;
+    }
+
     p {
       font-size: 16px;
+
+      @media (min-width: 1600px) {
+        font-size: 1.25em;
+      }
     }
   }
 }

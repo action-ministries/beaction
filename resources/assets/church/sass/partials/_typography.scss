@@ -9,9 +9,17 @@ h1 {
   @media(max-width: 768px) {
     font-size: 4em;
   }
+
+  @media (min-width: 1400px) {
+    font-size: 9em;
+  }
 }
 h2 {
   font-size: 2.7em;
+
+  @media (min-width: 1400px) {
+    font-size: 4em;
+  }
 }
 h3 {
   font-size: 2.5em;
@@ -27,6 +35,10 @@ h6 {
 }
 p {
   font-size: 16px;
+
+  @media (min-width: 1400px) {
+    font-size: 1.75em;
+  }
 }
 a {
   color: inherit;
@@ -38,6 +50,10 @@ blockquote {
     size: 24px;
     style: italic;
   }
+
+  @media (min-width: 1400px) {
+    font-size: 2em;
+  }
 }
 
 .jumbotron.home, .jumbotron.about, .jumbotron.serve, .jumbotron.connect {
@@ -46,6 +62,16 @@ blockquote {
    
     @media (max-width: 768px) {
       font-size: 2.9em;
+    }
+
+    @media (min-width: 1400px) {
+      font-size: 6.5em;
+    }
+  }
+
+  p {
+    @media (min-width: 1400px) {
+      font-size: 2.5em;
     }
   }
 }
