@@ -12,7 +12,7 @@
     </div>
     <div class="row morepad mobile-hz-nopad">
         <div class="col-lg-6">
-            <p>ACTION Christian Center was founded in June 2016 by our Senior Pastor, Pastor Ike D. Motley, along with 9 other charter members. The church began from a bible study group that meets at the Crown Royal Motorcycle Club. ACTION’s first service was held on July 3, 2016, at the Best Western Hotel in Kirkwood, MO. After a month of services, Pastor Ike met with another local pastor, the pastor of Greentree Community Church. The pastor then opened the doors to the church building to have services. ACTION has been meeting here ever since.</p>
+            <p>ACTION Christian Center was founded in July 2016 by our Senior Pastor, Bishop Ike D. Motley, along with 9 other charter members. The church began from a bible study group that meets at the Crown Royal Motorcycle Club. ACTION’s first service was held on July 3, 2016, at the Best Western Hotel in Kirkwood, MO. After a month of services, Bishop Ike met with another local pastor, the pastor of Greentree Community Church. The pastor then opened the doors to the church building to have services. ACTION has been meeting here ever since.</p>
         </div>
         <div class="col-lg-6">
             <p>Since our inception we have had a heart towards people. Through our parent ministry, A.C.T.I.O.N. Ministries, we have held the Kingdom Woman & Kingdom Man conferences. We have also worked to get the area’s best Christian worshippers, praise teams, poets, and others to have an exciting night of praise & worship at the Kingdom Worship event this April 27 (2019).</p>
@@ -34,7 +34,7 @@
                     <img src="{{ asset('church/img/pastorIke.png') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
-                            Pastor Ike M.
+                            Bishop Ike M.
                             <small class="text-muted">Senior Pastor</small>
                         </h3>
                     </div>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-lg-6">
                 <p>After our opening, we will have a reading of scripture from the Old & New Testament, then followed by praise and worship. Also, the children in the church sing every Sunday, “Jesus Love Me” before they head to a separate classroom, where they taught by our children’s instructor, Mother Helen Shed. After their lesson, they’re time is filled with playing at the church playground, if the weather permits.</p>
-                <p>Following the children is prayer and a dynamic message from our Senior Pastor, Pastor Ike D. Motley. We would love for you to join us this Sunday. Send us a message on Facebook and we’ll make sure to prepare for your arrival.</p>
+                <p>Following the children is prayer and a dynamic message from our Senior Pastor, Bishop Ike D. Motley. We would love for you to join us this Sunday. Send us a message on Facebook and we’ll make sure to prepare for your arrival.</p>
             </div>
         </div>
     </div>
