@@ -14,7 +14,13 @@
     <meta property="og:url"           content="{{ url('/') }}" />
 	<meta property="og:type"          content="website" />
 	<meta property="og:title"         content="@yield('title') | ACTION Christian Center" />
-	<meta property="og:image"         content="{{ asset('church/img/church.jpg') }}" />
+    <meta property="og:image"         content="{{ asset('church/img/church.jpg') }}" />
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('church/img/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('church/img/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('church/img/favicon-16x16.png') }}">
+    <link rel="mask-icon" href="{{ asset('/safari-pinned-tab.svg') }}" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ mix('/church/css/app.css') }}" />
