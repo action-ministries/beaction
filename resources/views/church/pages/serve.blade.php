@@ -13,7 +13,7 @@
     <!-- ALIVE -->
     <div class="row purplebg">
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('church/img/alive.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/kw_2019.jpg') }}" class="img-fluid" alt="Kingdom Woman's Conference 2019">
         </div>
         <div class="col-xl-6 content">
             <div class="wrap">
@@ -31,13 +31,13 @@
             </div>
         </div>
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('church/img/kingdomManTickets.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/km_2019.jpg') }}" class="img-fluid" alt="Kingdom Man's Conference 2019">
         </div>
     </div>
     <!--Children -->
     <div class="row yellowbg">
         <div class="col-xl-6 nopad">
-            <img src="{{ asset('church/img/children1.jpg') }}" class="img-fluid" alt="ALIVE Women's Conference 2017">
+            <img src="{{ asset('church/img/children1.jpg') }}" class="img-fluid" alt="Children's Ministry">
         </div>
         <div class="col-xl-6 content">
             <div class="wrap">
