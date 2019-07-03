@@ -33,8 +33,8 @@ $churchRoutes = function() {
         return view('church.pages.next-steps');
     });
 
-    Route::get('/welcome', function () {
-        return view('welcome');
+    Route::get('/events', function () {
+        return view('church.pages.events');
     });
 };
 

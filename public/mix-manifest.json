@@ -1,8 +1,7 @@
 {
-    "/church/js/app.js": "/church/js/app.js?id=5cb49ac9b9a0a38d5870",
-    "/church/css/app.css": "/church/css/app.css?id=872775d78be8c0171fab",
-    "/ministry/css/app.css": "/ministry/css/app.css?id=c0fa9bc7c3cd4c102825",
-    "/ministry/js/app.js": "/ministry/js/app.js?id=fd02acbfa5d4a1612096",
+    "/church/js/app.js": "/church/js/app.js?id=f7f370595b680e6571dc",
+    "/ministry/css/app.css": "/ministry/css/app.css?id=f45ff4deb1c9f164664d",
+    "/ministry/js/app.js": "/ministry/js/app.js?id=d34a809c4a8df4ac2e39",
     "/church/img/actionlogo.png": "/church/img/actionlogo.png?id=e6f9f1ee046bc6f5ec9a",
     "/church/img/alive.jpg": "/church/img/alive.jpg?id=a3285c1e169700ea7eda",
     "/church/img/BBB_Conference.png": "/church/img/BBB_Conference.png?id=ebd208647b33bdadaced",
@@ -26,6 +25,7 @@
     "/church/img/site.webmanifest": "/church/img/site.webmanifest?id=c2f552420ee251e4422c",
     "/church/img/felicia.jpg": "/church/img/felicia.jpg?id=6751755b71ace1ba42af",
     "/church/img/felicia.png": "/church/img/felicia.png?id=e2681a8fe524cc27b670",
+    "/church/img/gentryPark.jpg": "/church/img/gentryPark.jpg?id=0ef32cfa4fbf4b2a0ab5",
     "/church/img/Image-1.png": "/church/img/Image-1.png?id=3651f96690f920ac023f",
     "/church/img/Image.png": "/church/img/Image.png?id=dc73ee16a6d74de71d60",
     "/church/img/kingdomManTickets.jpg": "/church/img/kingdomManTickets.jpg?id=c8930d4a43733fd7e534",
@@ -51,5 +51,6 @@
     "/church/fonts/generator_config.txt": "/church/fonts/generator_config.txt?id=4dce64e8848e18c45c2f",
     "/church/fonts/Hansief.otf": "/church/fonts/Hansief.otf?id=7d2bbfa24b6b2c0e77fb",
     "/church/fonts/HansiefRough.otf": "/church/fonts/HansiefRough.otf?id=32a9cf94990a5b767a95",
-    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5"
+    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5",
+    "/church/css/app.css": "/church/css/app.css?id=de16bbc88b9dec99f199"
 }

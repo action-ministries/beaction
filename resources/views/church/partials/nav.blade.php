@@ -14,6 +14,9 @@
             <li class="nav-item {{ Request::is('about') ? 'active' : ""}}">
                 <a class="nav-link" href="{{ url('about') }}">About</a>
             </li>
+            <li class="nav-item {{ Request::is('events') ? 'active' : ""}}">
+                <a class="nav-link" href="{{ url('events') }}">Upcoming Events</a>
+            </li>
             <li class="nav-item {{ Request::is('serve') ? 'active' : ""}}">
                 <a class="nav-link" href="{{ url('serve') }}">Serve</a>
             </li>
