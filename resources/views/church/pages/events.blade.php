@@ -14,7 +14,7 @@
             <div class="col-lg-6 nopad content text-right">
                 <div class="wrap">
                     <h2>Annual Church Picnic</h2>
-                    <p>ACC-South is celebrating it's 3rd Anniversary and is inviting EVERYONE to the church's picnic celebration. There will be games, BBQ, deserts, a DJ and an all-around wholesome good time. If you're reading this... you're invited. <br />
+                    <p>ACC-South is celebrating it's 3rd Anniversary and is inviting EVERYONE to the church's picnic celebration. There will be games, BBQ, desserts, a DJ and an all-around wholesome good time. If you're reading this... you're invited. <br />
                     <br />
                     <address>
                         Gentry Park<br />
