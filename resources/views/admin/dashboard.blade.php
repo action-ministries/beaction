@@ -11,7 +11,7 @@
     <nav class="nav">
         <div class="nav__logo">
             <div class="nav__logo-image">
-                <img src="https://fillmurray.com/150/50" />
+                <img src="https://fillmurray.com/50/50" />
             </div>
         </div>
     </nav>
