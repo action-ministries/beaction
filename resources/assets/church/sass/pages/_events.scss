@@ -18,3 +18,29 @@
     margin-top: 100px;
   }
 }
+
+.event {
+  @at-root &__content{
+    @at-root &-wrap {
+      width: 90% !important;
+    }
+
+    @at-root &-title {
+      @at-root &-date {
+        color: rgba($white, .75);
+        display: block;
+        font: {
+          size: .5em;
+        }
+        margin: 10px 0;
+      }
+    }
+
+    @at-root &-address {
+      color: rgba($white, .75);
+      font: {
+        style: italic;
+      }
+    }
+  }
+}
