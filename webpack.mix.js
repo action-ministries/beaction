@@ -14,6 +14,7 @@ mix.js('resources/assets/church/js/app.js', 'public/church/js')
     .js('resources/assets/ministry/js/app.js', 'public/ministry/js')
     .sass('resources/assets/church/sass/app.scss', 'public/church/css')
     .sass('resources/assets/ministry/sass/app.scss', 'public/ministry/css')
+    .sass('resources/assets/admin/sass/app.scss', 'public/admin/css')
     .version();
 
 mix.copy('resources/assets/church/img/**/*', 'public/church/img/', false)

@@ -1,0 +1,9 @@
+.admin {
+    @at-root &__nav {
+        @at-root &-logo {
+            @at-root &-image {
+                width: 50px;
+            }
+        }
+    }
+}

@@ -36894,6 +36894,17 @@ module.exports = function(module) {
 
 /***/ }),
 
+/***/ "./resources/assets/admin/sass/app.scss":
+/*!**********************************************!*\
+  !*** ./resources/assets/admin/sass/app.scss ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ "./resources/assets/church/js/app.js":
 /*!*******************************************!*\
   !*** ./resources/assets/church/js/app.js ***!
@@ -37001,15 +37012,16 @@ if (token) {
 /***/ }),
 
 /***/ 0:
-/*!***********************************************************************************************************************************!*\
-  !*** multi ./resources/assets/church/js/app.js ./resources/assets/church/sass/app.scss ./resources/assets/ministry/sass/app.scss ***!
-  \***********************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************!*\
+  !*** multi ./resources/assets/church/js/app.js ./resources/assets/church/sass/app.scss ./resources/assets/ministry/sass/app.scss ./resources/assets/admin/sass/app.scss ***!
+  \**************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! /Users/tacony/Projects/accs/resources/assets/church/js/app.js */"./resources/assets/church/js/app.js");
 __webpack_require__(/*! /Users/tacony/Projects/accs/resources/assets/church/sass/app.scss */"./resources/assets/church/sass/app.scss");
-module.exports = __webpack_require__(/*! /Users/tacony/Projects/accs/resources/assets/ministry/sass/app.scss */"./resources/assets/ministry/sass/app.scss");
+__webpack_require__(/*! /Users/tacony/Projects/accs/resources/assets/ministry/sass/app.scss */"./resources/assets/ministry/sass/app.scss");
+module.exports = __webpack_require__(/*! /Users/tacony/Projects/accs/resources/assets/admin/sass/app.scss */"./resources/assets/admin/sass/app.scss");
 
 
 /***/ })

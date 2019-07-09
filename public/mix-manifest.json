@@ -1,7 +1,8 @@
 {
-    "/church/js/app.js": "/church/js/app.js?id=f7f370595b680e6571dc",
+    "/church/js/app.js": "/church/js/app.js?id=f161cb949b573cf9b789",
     "/church/css/app.css": "/church/css/app.css?id=9817f57eb1533861fb11",
     "/ministry/css/app.css": "/ministry/css/app.css?id=f45ff4deb1c9f164664d",
+    "/admin/css/app.css": "/admin/css/app.css?id=e41f926837d9f09fe8a0",
     "/ministry/js/app.js": "/ministry/js/app.js?id=d34a809c4a8df4ac2e39",
     "/church/img/actionlogo.png": "/church/img/actionlogo.png?id=e6f9f1ee046bc6f5ec9a",
     "/church/img/alive.jpg": "/church/img/alive.jpg?id=a3285c1e169700ea7eda",
@@ -30,6 +31,8 @@
     "/church/img/Image-1.png": "/church/img/Image-1.png?id=3651f96690f920ac023f",
     "/church/img/Image.png": "/church/img/Image.png?id=dc73ee16a6d74de71d60",
     "/church/img/kingdomManTickets.jpg": "/church/img/kingdomManTickets.jpg?id=c8930d4a43733fd7e534",
+    "/church/img/km_2019.jpg": "/church/img/km_2019.jpg?id=26e83f2f17d23f32f532",
+    "/church/img/kw_2019.jpg": "/church/img/kw_2019.jpg?id=536c8db6811639baff3e",
     "/church/img/lawanda-bishop.jpg": "/church/img/lawanda-bishop.jpg?id=68adf2584130af277617",
     "/church/img/mensConference.jpg": "/church/img/mensConference.jpg?id=f7ed16f80f16c48caa64",
     "/church/img/minelijah.jpg": "/church/img/minelijah.jpg?id=7e8052b3b87d154af9b8",
@@ -52,7 +55,5 @@
     "/church/fonts/generator_config.txt": "/church/fonts/generator_config.txt?id=4dce64e8848e18c45c2f",
     "/church/fonts/Hansief.otf": "/church/fonts/Hansief.otf?id=7d2bbfa24b6b2c0e77fb",
     "/church/fonts/HansiefRough.otf": "/church/fonts/HansiefRough.otf?id=32a9cf94990a5b767a95",
-    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5",
-    "/church/img/km_2019.jpg": "/church/img/km_2019.jpg?id=26e83f2f17d23f32f532",
-    "/church/img/kw_2019.jpg": "/church/img/kw_2019.jpg?id=536c8db6811639baff3e"
+    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5"
 }
