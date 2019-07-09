@@ -38,6 +38,12 @@ $churchRoutes = function() {
     });
 };
 
+$adminRoutes = function() {
+    Route::get('/', function() {
+        return view('admin.dashboard');
+    })->name('admin-home');
+};
+
 // Ministry Routes
 // Route::group(['domain' => 'www.'.env('APP_DOMAIN', 'accs.com')], $ministryRoutes);
 // Route::group(['domain' => env('APP_DOMAIN', 'accs.com')], $ministryRoutes);
@@ -51,3 +57,6 @@ $churchRoutes = function() {
 // Church Routes
 Route::group(['domain' => env('APP_DOMAIN', 'beaction.org')], $churchRoutes);
 Route::group(['domain' => 'dev.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
+
+// Admin Routes
+Route::group(['domain' => 'dev.admin.'.env('APP_DOMAIN', 'accs.com')], $adminRoutes);
