@@ -40,7 +40,7 @@ $churchRoutes = function() {
 
 $adminRoutes = function() {
     Route::get('/', function() {
-        return view('admin.dashboard');
+        return view('admin.master');
     })->name('admin-home');
 };
 

@@ -1,9 +1,6 @@
-.admin {
-    @at-root &__nav {
-        @at-root &-logo {
-            @at-root &-image {
-                width: 50px;
-            }
-        }
-    }
-}
+@import 'spec/settings/index';
+@import 'spec/tools/index';
+@import "~bootstrap/scss/bootstrap";
+@import 'spec/index';
+// @import 'vendor/index';
+
