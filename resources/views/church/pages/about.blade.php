@@ -42,17 +42,6 @@
             </div>
             <div class="col-lg-4 mobile-mb50">
                 <div class="media">
-                    <img src="{{ asset('church/img/minelijah.jpg') }}" alt="" class="mr-3 rounded-circle">
-                    <div class="media-body align-self-center">
-                        <h3 class="mt-0">
-                            Min. Elijah W.
-                            <small class="text-muted">Assoc. Pastor/RECLAIM President</small>
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 mobile-mb50">
-                <div class="media">
                     <img src="{{ asset('church/img/casandra.jpg') }}" alt="" class="mr-3 rounded-circle">
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
@@ -60,6 +49,17 @@
                             <small class="text-muted">Cheif of Staff/ALIVE President</small>
                         </h3>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 mobile-mb50">
+            <div class="media">
+                <img src="{{ asset('church/img/minelijah.jpg') }}" alt="" class="mr-3 rounded-circle">
+                <div class="media-body align-self-center">
+                    <h3 class="mt-0">
+                        Min. Elijah W.
+                        <small class="text-muted">Assoc. Pastor/RECLAIM President</small>
+                    </h3>
                 </div>
             </div>
         </div>

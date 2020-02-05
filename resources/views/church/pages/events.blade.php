@@ -13,7 +13,7 @@
             </div>
             <div class="col-lg-6 nopad content text-right event__content">
                 <div class="wrap event__content-wrap">
-                    <h2 class="event__content-title">Meacham Park - Kirkwood Unity Revival<small class="event__content-title-date">August 26-28 (7pm - 9pm)</small></h2>
+                    <h2 class="event__content-title">Meacham Park - Kirkwood Unity Revival<small class="event__content-title-date">TBD</small></h2>
                     <p>Every church no matter the denomination, no matter the racial, economic, or social background is welcome to attend this wonderful revival. Come out and let's reconnect with our God together!
                     <address class="event__content-address">
                         Greentree Community Church<br />

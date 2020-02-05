@@ -113,8 +113,9 @@ iframe {
   }
 }
 .jumbotron {
-  padding: 75px;
+  border-radius: 0;
   margin-bottom: 0;
+  padding: 75px;
   
   @media (min-width: 1600px) {
     min-height: 600px;
