@@ -36,6 +36,10 @@ $churchRoutes = function() {
     Route::get('/events', function () {
         return view('church.pages.events');
     });
+
+    Route::get('/mens-event', function () {
+        return view('church.pages.mens-event');
+    });
 };
 
 // Ministry Routes
@@ -50,4 +54,5 @@ $churchRoutes = function() {
 
 // Church Routes
 Route::group(['domain' => env('APP_DOMAIN', 'beaction.org')], $churchRoutes);
+Route::group(['localhost'], $churchRoutes);
 Route::group(['domain' => 'dev.'.env('APP_DOMAIN', 'accs.com')], $churchRoutes);
