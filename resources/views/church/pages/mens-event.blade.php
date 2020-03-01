@@ -10,6 +10,10 @@
                 100 Kirkwood Pl. Kirkwood, MO 63122</address>
                 <time datetime="2020-05-29T17:00">May 29 (5pm)</time> <time datetime="2020-05-30T09:00"> - May 30 (9am)</time>
             </div>
+             <div class="row button-wrapperß">
+                <a class="btn btn-secondary btn-sm" href="#km-registration">Register Now!</a>
+                <a class="btn btn-primary btn-sm" href="#">Get Tickets</a>
+            </div>
             <div class="photo"></div>
         </div>
         <!-- About -->
@@ -93,6 +97,26 @@
             </div>
         </div>
         <!--// Speakers //-->
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfw9Je6eYnBwH_LZfFwBPWRRwIXTbx4yTOr_bEvs42OZsxElA/viewform?embedded=true" width="640" height="1820" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <!-- Contact Us -->
+        <div class="contact text-center">
+            <div class="row">
+                <div class="col-md-5 mx-auto">
+                    <div class="row">
+                        <h2 class="mx-auto">Contact Us</h2>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore eligendi iure nesciunt accusantium temporibus, quaerat possimus excepturi ab quae quidem fugiat reiciendis numquam maxime aspernatur dolores non est itaque laboriosam ut sapiente praesentium, tempora eum! Dignissimos cumque accusantium reiciendis repudiandae labore quis quia, suscipit numquam repellendus nam dicta deserunt provident!</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 offset-md-2">
+                            <a class="btn btn-secondary btn-center btn-sm" href="#km-registration">Register Now!</a>
+                        </div>
+                        <div class="col-md-4">
+                            <a class="btn btn-primary btn-center btn-sm" href="#">Get Tickets</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--// Contact Us //-->
+        <iframe id="km-registration" src="https://docs.google.com/forms/d/e/1FAIpQLSfw9Je6eYnBwH_LZfFwBPWRRwIXTbx4yTOr_bEvs42OZsxElA/viewform?embedded=true" width="640" height="1820" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </div>
 @endsection
