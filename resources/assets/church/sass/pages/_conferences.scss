@@ -152,7 +152,6 @@ $mens-secondary: #FFDE59;
     }
     iframe {
         height: 182em;
-        padding-top: 15em;
     }
 
     .wrap {
@@ -389,6 +388,29 @@ $mens-secondary: #FFDE59;
         .btn {
             display: inline-block;
             padding: 10px;
+        }
+    }
+
+    .modal {
+        padding-top: 0;
+        .close {
+            color: $white;
+        }
+        .modal-dialog {
+            background: {
+                color: transparent;
+            }
+            margin: 0 auto;
+            .modal-header {
+                padding: 0;
+            }
+            .modal-content {
+                background: {
+                    color: transparent !important;
+                }
+                border: none;
+                padding: 0;
+            }
         }
     }
 }

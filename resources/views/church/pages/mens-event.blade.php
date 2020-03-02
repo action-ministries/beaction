@@ -11,7 +11,7 @@
                 <time datetime="2020-05-29T17:00">May 29 (5pm)</time> <time datetime="2020-05-30T09:00"> - May 30 (9am)</time>
             </div>
              <div class="row button-wrapperß">
-                <a class="btn btn-secondary btn-sm" href="#km-registration">Register Now!</a>
+                <button type="button" class="btn btn-secondary btn-sm" data-target="#km-registration" data-toggle="modal">Register Now!</button>
                 <a class="btn btn-primary btn-sm" href="#">Get Tickets</a>
             </div>
             <div class="photo"></div>
@@ -107,7 +107,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-4 offset-md-2">
-                            <a class="btn btn-secondary btn-center btn-sm" href="#km-registration">Register Now!</a>
+                            <button type="button" class="btn btn-secondary btn-sm" data-target="#km-registration" data-toggle="modal">Register Now!</button>
                         </div>
                         <div class="col-md-4">
                             <a class="btn btn-primary btn-center btn-sm" href="#">Get Tickets</a>
@@ -117,6 +117,28 @@
             </div>
         </div>
         <!--// Contact Us //-->
-        <iframe id="km-registration" src="https://docs.google.com/forms/d/e/1FAIpQLSfw9Je6eYnBwH_LZfFwBPWRRwIXTbx4yTOr_bEvs42OZsxElA/viewform?embedded=true" width="640" height="1820" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <!-- Registration Modal -->
+        <div class="modal fade" id="km-registration" tabindex="-1" role="dialog" aria-labelledby="km-registration-title" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title sr-only" id="km-registration-title">Kingdom Man Event Registration</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfw9Je6eYnBwH_LZfFwBPWRRwIXTbx4yTOr_bEvs42OZsxElA/viewform?embedded=true" width="640" height="1820" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--// Registration Modal //-->
     </div>
+    <script>
+        // $('#km-registration').modal();
+    </script>
 @endsection
