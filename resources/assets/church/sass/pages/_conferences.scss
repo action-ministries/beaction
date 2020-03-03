@@ -150,9 +150,6 @@ $mens-secondary: #FFDE59;
             &:last-child {margin-right: 0;}
         }
     }
-    iframe {
-        height: 182em;
-    }
 
     .wrap {
         padding: 5em 0;
@@ -388,6 +385,24 @@ $mens-secondary: #FFDE59;
         .btn {
             display: inline-block;
             padding: 10px;
+            margin-bottom: 1em;
+
+            @media screen and (min-width: 768px) {
+                margin-bottom: 0;
+            }
+        }
+
+        a:not(.btn) {
+            font-size: 2em;
+            margin: {
+                right: 1em;
+            }
+
+            &:last-child {
+                margin: {
+                    right: 0;
+                }
+            }
         }
     }
 
@@ -401,6 +416,8 @@ $mens-secondary: #FFDE59;
                 color: transparent;
             }
             margin: 0 auto;
+            min-width: 375px;
+
             .modal-header {
                 padding: 0;
             }

@@ -5,7 +5,7 @@ html .church {
   font-size: 10px;
   margin: 0 auto;
   min-width: 375px;
-  max-width: 150em;
+  max-width: 192em;
 }
 html .church .darkbg {
   background-color: #252525 !important;
@@ -618,9 +618,6 @@ html .church .kingdom-man .jumbotron .btn {
 html .church .kingdom-man .jumbotron .btn:last-child {
   margin-right: 0;
 }
-html .church .kingdom-man iframe {
-  height: 182em;
-}
 html .church .kingdom-man .wrap {
   padding: 5em 0;
 }
@@ -823,6 +820,19 @@ html .church .kingdom-man .contact h2 {
 html .church .kingdom-man .contact .btn {
   display: inline-block;
   padding: 10px;
+  margin-bottom: 1em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .contact .btn {
+    margin-bottom: 0;
+  }
+}
+html .church .kingdom-man .contact a:not(.btn) {
+  font-size: 2em;
+  margin-right: 1em;
+}
+html .church .kingdom-man .contact a:not(.btn):last-child {
+  margin-right: 0;
 }
 html .church .kingdom-man .modal {
   padding-top: 0;
@@ -833,6 +843,7 @@ html .church .kingdom-man .modal .close {
 html .church .kingdom-man .modal .modal-dialog {
   background-color: transparent;
   margin: 0 auto;
+  min-width: 375px;
 }
 html .church .kingdom-man .modal .modal-dialog .modal-header {
   padding: 0;

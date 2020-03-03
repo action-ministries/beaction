@@ -12,7 +12,7 @@
             </div>
              <div class="row button-wrapperß">
                 <button type="button" class="btn btn-secondary btn-sm" data-target="#km-registration" data-toggle="modal">Register Now!</button>
-                <a class="btn btn-primary btn-sm" href="#">Get Tickets</a>
+                <a class="btn btn-primary btn-sm" href="//www.eventbrite.com/e/kingdom-man-men-at-work-tickets-97654534341" target="_blank">Get Tickets</a>
             </div>
             <div class="photo"></div>
         </div>
@@ -67,31 +67,31 @@
                 <div class="col-sm-6 col-md-4 speaker bishop">
                     <div class="text-container">
                         <h3>Bishop Ike Motley</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, modi.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 speaker elijah">
                     <div class="text-container">
                         <h3>Minister Elijah Williams</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, modi.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 speaker randy">
+                <!-- <div class="col-sm-6 col-md-4 speaker randy">
                     <div class="text-container">
                         <h3>Dr. Randolph Shed</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, modi.</p>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-sm-6 col-md-4 speaker demetrius">
                     <div class="text-container">
                         <h3>Pastor Demetrius Moore</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, modi.</p>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 speaker harry">
+                <!-- <div class="col-sm-6 col-md-4 speaker harry">
                     <div class="text-container">
                         <h3>Pastor Harry Jones</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, modi.</p>
+                    </div>
+                </div> -->
+                <div class="col-sm-6 col-md-4 speaker speaker-noimg">
+                    <div class="text-container">
+                        <h2>More to Come...</h2>
                     </div>
                 </div>
             </div>
@@ -100,17 +100,28 @@
         <!-- Contact Us -->
         <div class="contact text-center">
             <div class="row">
-                <div class="col-md-5 mx-auto">
+                <div class="col-md-6 mx-auto">
                     <div class="row">
-                        <h2 class="mx-auto">Contact Us</h2>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore eligendi iure nesciunt accusantium temporibus, quaerat possimus excepturi ab quae quidem fugiat reiciendis numquam maxime aspernatur dolores non est itaque laboriosam ut sapiente praesentium, tempora eum! Dignissimos cumque accusantium reiciendis repudiandae labore quis quia, suscipit numquam repellendus nam dicta deserunt provident!</p>
+                        <div class="col-md-12">
+                            <h2 class="mx-auto">Contact Us</h2>
+                            <p>Got questions? We have answers.</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p>
+                                <a href="mailto:actionchristiancentersouth@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
+                                <a href="//www.facebook.com/ActionMinistries/" target="_blank"><i class="fab fa-facebook"></i></a>
+                                <a href="//www.instagram.com/actionchristiancenter/" target="_blank"><i class="fab fa-instagram"></i></a>
+                            </p>
+                        </div>
                     </div>
                     <div class="row">
                         <div class="col-md-4 offset-md-2">
                             <button type="button" class="btn btn-secondary btn-sm" data-target="#km-registration" data-toggle="modal">Register Now!</button>
                         </div>
                         <div class="col-md-4">
-                            <a class="btn btn-primary btn-center btn-sm" href="#">Get Tickets</a>
+                            <a class="btn btn-primary btn-center btn-sm" href="//www.eventbrite.com/e/kingdom-man-men-at-work-tickets-97654534341" target="_blank">Get Tickets</a>
                         </div>
                     </div>
                 </div>
@@ -119,7 +130,7 @@
         <!--// Contact Us //-->
         <!-- Registration Modal -->
         <div class="modal fade" id="km-registration" tabindex="-1" role="dialog" aria-labelledby="km-registration-title" aria-hidden="true">
-            <div class="modal-dialog" role="document">
+            <div class="modal-dialog modal-dialog-scrollable" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
                         <h5 class="modal-title sr-only" id="km-registration-title">Kingdom Man Event Registration</h5>
@@ -128,7 +139,7 @@
                         </button>
                     </div>
                     <div class="modal-body">
-                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfw9Je6eYnBwH_LZfFwBPWRRwIXTbx4yTOr_bEvs42OZsxElA/viewform?embedded=true" width="640" height="1820" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                        <iframe src="//docs.google.com/forms/d/e/1FAIpQLSfw9Je6eYnBwH_LZfFwBPWRRwIXTbx4yTOr_bEvs42OZsxElA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
