@@ -25,8 +25,7 @@
                 <div class="col-md-6 nopad content text-right event__content">
                     <div class="wrap event__content-wrap">
                         <h2 class="event__content-title">About The Conference</h2>
-                        <p>Every church no matter the denomination, no matter the racial, economic, or social background is welcome to attend this wonderful revival. Come out and let's reconnect with our God together!
-                        </p>
+                        <p>The Kingdom Man conference is a 2 day event focused on encouraging, uplifting, and equipping men with dynamic speakers and revelent teaching. </p>
                     </div>
                 </div>
             </div>
