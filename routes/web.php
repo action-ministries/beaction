@@ -40,6 +40,10 @@ $churchRoutes = function() {
     Route::get('/kingdom-man', function () {
         return view('church.pages.mens-event');
     });
+
+    Route::get('/kingdom-woman-staging', function () {
+        return view('church.pages.womens-event');
+    });
 };
 
 // Ministry Routes
