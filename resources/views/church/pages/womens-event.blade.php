@@ -48,8 +48,8 @@
                     </div>
                     <div class="col-sm-12 col-md-4 card fellowship">
                         <i class="fas fa-users"></i>
-                        <h3>Brotherhood</h3>
-                        <p>Enjoy a time of fellowship with like-minded brothers.</p>
+                        <h3>Sisterhood</h3>
+                        <p>Enjoy a time of fellowship with like-minded women.</p>
                     </div>
                 </div>
             </div>
