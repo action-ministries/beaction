@@ -117,7 +117,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 sponsor">
-                        <a href="//jubileebrands.com/" target="_blank">
+                        <a href="http://jubileebrands.com/" target="_blank">
                             <img src="{{ asset('church/img/jubilee.png') }}" alt="Jubilee Brands">
                         </a>
                     </div>
