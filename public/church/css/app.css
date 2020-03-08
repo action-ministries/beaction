@@ -895,15 +895,17 @@ html .church .kingdom-woman .jumbotron {
 html .church .kingdom-woman .jumbotron h1 {
   color: #FFDE59;
   line-height: 0.5;
+  margin-left: 0.1em;
   position: relative;
   width: 2.38em;
-  font-size: 8em;
+  font-size: 13em;
   font-style: normal;
 }
 @media screen and (min-width: 768px) {
   html .church .kingdom-woman .jumbotron h1 {
-    font-size: 12em;
+    font-size: 26em;
     line-height: 0.75;
+    margin-left: 0;
   }
 }
 @media screen and (min-width: 960px) {
@@ -917,23 +919,38 @@ html .church .kingdom-woman .jumbotron h1 small {
   display: block;
   position: absolute;
   right: 0;
-  top: 0.3em;
+  top: -0.3em;
   font-family: "Bebas Neue";
   font-size: 0.2em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron h1 small {
+    top: 0.3em;
+  }
 }
 html .church .kingdom-woman .jumbotron h1 small span {
   display: block;
   font-size: 0.4em;
-  margin-bottom: 0.1em;
+  margin-bottom: 0.7em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron h1 small span {
+    margin-bottom: 0.1em;
+  }
 }
 html .church .kingdom-woman .jumbotron h1 .small-title {
   bottom: 30%;
   font-size: 0.11em;
-  left: -2%;
+  left: -5%;
   position: absolute;
   top: 0;
   -webkit-transform: rotate(-90deg);
           transform: rotate(-90deg);
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron h1 .small-title {
+    left: -2%;
+  }
 }
 html .church .kingdom-woman .jumbotron .details {
   margin-top: 5em;
@@ -1112,14 +1129,39 @@ html .church .kingdom-woman .speakers .speaker.casandra {
   background-image: url(/images/presidentCasandra.jpg?559c096294a51be0f85604a5e2c98d4b);
   background-position: center -16em;
 }
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker.casandra {
+    background-position: center;
+  }
+}
 html .church .kingdom-woman .speakers .speaker.courtney {
   background-image: url(/images/courtney-white.jpg?67420acdb7b96cc4009a40205641fd44);
   background-position: -6em -20em;
   background-size: 200% auto;
 }
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker.courtney {
+    background-position: -6em -10em;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .speakers .speaker.courtney {
+    background-position: -6em -20em;
+  }
+}
 html .church .kingdom-woman .speakers .speaker.peggy {
   background-image: url(/images/peggy.jpg?fac7ecbe87b0269ac01e57fc4ca4a44c);
   background-position: center -5em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker.peggy {
+    background-position: center;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .speakers .speaker.peggy {
+    background-position: center -4em;
+  }
 }
 html .church .kingdom-woman .speakers .speaker .text-container {
   background-image: linear-gradient(-45deg, rgba(255, 222, 89, 0.9), rgba(58, 14, 116, 0.75));
