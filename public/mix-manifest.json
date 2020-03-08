@@ -1,8 +1,8 @@
 {
-    "/church/js/app.js": "/church/js/app.js?id=492c74a1bc54c23cea07",
-    "/church/css/app.css": "/church/css/app.css?id=1f5692725477c889002e",
-    "/ministry/css/app.css": "/ministry/css/app.css?id=f45ff4deb1c9f164664d",
-    "/ministry/js/app.js": "/ministry/js/app.js?id=685f679af5f1fbe5f98e",
+    "/church/js/app.js": "/church/js/app.js?id=77e19848126a583f45cd",
+    "/church/css/app.css": "/church/css/app.css?id=79cd68aaa9671ffc1e89",
+    "/ministry/css/app.css": "/ministry/css/app.css?id=c0fa9bc7c3cd4c102825",
+    "/ministry/js/app.js": "/ministry/js/app.js?id=870bb2b0f537a0098764",
     "/church/img/about-km.png": "/church/img/about-km.png?id=e79e802f3a130ccd9df4",
     "/church/img/about-kw.png": "/church/img/about-kw.png?id=bf5484fe6fdd0a7a6e9c",
     "/church/img/actionlogo.png": "/church/img/actionlogo.png?id=95205bf0cd822fbfb897",
@@ -18,6 +18,7 @@
     "/church/img/courtney-white.jpg": "/church/img/courtney-white.jpg?id=85f1fb156eefa541f7ab",
     "/church/img/courtney.jpg": "/church/img/courtney.jpg?id=6fc9e651834b4a529bbc",
     "/church/img/courtney.png": "/church/img/courtney.png?id=a97845883041b9982edb",
+    "/church/img/courtneychic.png": "/church/img/courtneychic.png?id=84738029a0986dd87156",
     "/church/img/android-chrome-192x192.png": "/church/img/android-chrome-192x192.png?id=94ff921238d0a34090e3",
     "/church/img/apple-touch-icon.png": "/church/img/apple-touch-icon.png?id=1de5a5d14a4f8477dd11",
     "/church/img/browserconfig.xml": "/church/img/browserconfig.xml?id=a493ba0aa0b8ec8068d7",
@@ -30,9 +31,11 @@
     "/church/img/felicia.jpg": "/church/img/felicia.jpg?id=602cc18463a6659af960",
     "/church/img/felicia.png": "/church/img/felicia.png?id=790aaf5028b617eb76fb",
     "/church/img/gentryPark.jpg": "/church/img/gentryPark.jpg?id=7084387b7c69aaec9ec0",
+    "/church/img/greentree.png": "/church/img/greentree.png?id=fecbd1410338d7e9393c",
     "/church/img/gtcc.jpg": "/church/img/gtcc.jpg?id=201fbf8389820ad1d08d",
     "/church/img/Image-1.png": "/church/img/Image-1.png?id=3d5b823b3880dc7db803",
     "/church/img/Image.png": "/church/img/Image.png?id=573aff6c71dcb97f5431",
+    "/church/img/jubilee.png": "/church/img/jubilee.png?id=5b755e88c37650cafe0d",
     "/church/img/kingdomManTickets.jpg": "/church/img/kingdomManTickets.jpg?id=f091984839fddd88ad47",
     "/church/img/km_2019.jpg": "/church/img/km_2019.jpg?id=e1992f0b52199139a0c7",
     "/church/img/kw_2019.jpg": "/church/img/kw_2019.jpg?id=f56b223d2fc4621b8fb0",
@@ -67,8 +70,5 @@
     "/church/fonts/generator_config.txt": "/church/fonts/generator_config.txt?id=4dce64e8848e18c45c2f",
     "/church/fonts/Hansief.otf": "/church/fonts/Hansief.otf?id=cc087381e5da22676432",
     "/church/fonts/HansiefRough.otf": "/church/fonts/HansiefRough.otf?id=32a9cf94990a5b767a95",
-    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5",
-    "/church/img/courtneychic.png": "/church/img/courtneychic.png?id=84738029a0986dd87156",
-    "/church/img/greentree.png": "/church/img/greentree.png?id=fecbd1410338d7e9393c",
-    "/church/img/jubilee.png": "/church/img/jubilee.png?id=5b755e88c37650cafe0d"
+    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5"
 }
