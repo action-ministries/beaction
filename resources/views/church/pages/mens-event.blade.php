@@ -96,6 +96,41 @@
             </div>
         </div>
         <!--// Speakers //-->
+        <!-- Sponsors -->
+        <div class="sponsors text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2>Sponsors</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 sponsor">
+                        <a href="/" target="_blank">
+                            <img src="{{ asset('church/img/actionlogo.png') }}" alt="ACTION Ministries">
+                            ACTION Ministries
+                        </a>
+                    </div>
+                    <div class="col-sm-6 sponsor">
+                        <a href="//greentreechurch.com" target="_blank">
+                            <img src="{{ asset('church/img/greentree.png') }}" alt="Greentree Community Church">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 sponsor">
+                        <a href="//jubileebrands.com/" target="_blank">
+                            <img src="{{ asset('church/img/jubilee.png') }}" alt="Jubilee Brands">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 sponsor">
+                        <a href="//getcourtneychic.com/" target="_blank">
+                            <img src="{{ asset('church/img/courtneychic.png') }}" alt="Courtney Chic">
+                            Courtney<span>Chic</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--// Sponsors //-->
         <!-- Contact Us -->
         <div class="contact text-center">
             <div class="row">

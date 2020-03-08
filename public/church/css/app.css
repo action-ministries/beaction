@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600,700,800);@import url(https://fonts.googleapis.com/css?family=Pinyon+Script|Bebas+Neue&display=swap);html {
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600,700,800);@import url(https://fonts.googleapis.com/css?family=Pinyon+Script|Bebas+Neue|Open+Sans&display=swap);html {
   scroll-behavior: smooth;
 }
 html .church {
@@ -834,6 +834,31 @@ html .church .kingdom-man .contact a:not(.btn) {
 html .church .kingdom-man .contact a:not(.btn):last-child {
   margin-right: 0;
 }
+html .church .kingdom-man .sponsors {
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+html .church .kingdom-man .sponsors .sponsor {
+  font-size: 2.1em;
+  padding: 1em 0;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-man .sponsors .sponsor {
+    font-size: 2.6em;
+  }
+}
+html .church .kingdom-man .sponsors .sponsor a {
+  font-family: "Open Sans", sans-serif;
+}
+html .church .kingdom-man .sponsors .sponsor img {
+  height: 64px;
+  width: auto;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-man .sponsors .sponsor img {
+    height: 100px;
+  }
+}
 html .church .kingdom-man .modal {
   padding-top: 0;
 }
@@ -1241,6 +1266,31 @@ html .church .kingdom-woman .contact a:not(.btn) {
 }
 html .church .kingdom-woman .contact a:not(.btn):last-child {
   margin-right: 0;
+}
+html .church .kingdom-woman .sponsors {
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+html .church .kingdom-woman .sponsors .sponsor {
+  font-size: 2.1em;
+  padding: 1em 0;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-woman .sponsors .sponsor {
+    font-size: 2.6em;
+  }
+}
+html .church .kingdom-woman .sponsors .sponsor a {
+  font-family: "Open Sans", sans-serif;
+}
+html .church .kingdom-woman .sponsors .sponsor img {
+  height: 64px;
+  width: auto;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-woman .sponsors .sponsor img {
+    height: 100px;
+  }
 }
 html .church .kingdom-woman .modal {
   padding-top: 0;

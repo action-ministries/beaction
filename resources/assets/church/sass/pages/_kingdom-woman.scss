@@ -468,6 +468,36 @@ $womens-secondary: #FFDE59;
         }
     }
 
+    .sponsors {
+        padding: {
+            bottom: 2em;
+            top: 2em;
+        }
+        .sponsor {
+            font-size: 2.1em;
+            padding: 1em 0;
+
+            @media screen and (min-width: 959px) {
+                font-size: 2.6em;
+            }
+
+            a {
+                font: {
+                    family: 'Open Sans', sans-serif;
+                }
+            }
+
+            img {
+                height: 64px;
+                width: auto;
+
+                @media screen and (min-width: 959px) {
+                    height: 100px;
+                }
+            }
+        }
+    }
+
     .modal {
         padding-top: 0;
         .close {

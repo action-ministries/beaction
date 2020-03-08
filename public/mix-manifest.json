@@ -1,6 +1,6 @@
 {
     "/church/js/app.js": "/church/js/app.js?id=492c74a1bc54c23cea07",
-    "/church/css/app.css": "/church/css/app.css?id=c59013ac576e8fcb3733",
+    "/church/css/app.css": "/church/css/app.css?id=1f5692725477c889002e",
     "/ministry/css/app.css": "/ministry/css/app.css?id=f45ff4deb1c9f164664d",
     "/ministry/js/app.js": "/ministry/js/app.js?id=685f679af5f1fbe5f98e",
     "/church/img/about-km.png": "/church/img/about-km.png?id=e79e802f3a130ccd9df4",
@@ -67,5 +67,8 @@
     "/church/fonts/generator_config.txt": "/church/fonts/generator_config.txt?id=4dce64e8848e18c45c2f",
     "/church/fonts/Hansief.otf": "/church/fonts/Hansief.otf?id=cc087381e5da22676432",
     "/church/fonts/HansiefRough.otf": "/church/fonts/HansiefRough.otf?id=32a9cf94990a5b767a95",
-    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5"
+    "/church/fonts/stylesheet.css": "/church/fonts/stylesheet.css?id=f93dad974c126e015ef5",
+    "/church/img/courtneychic.png": "/church/img/courtneychic.png?id=84738029a0986dd87156",
+    "/church/img/greentree.png": "/church/img/greentree.png?id=fecbd1410338d7e9393c",
+    "/church/img/jubilee.png": "/church/img/jubilee.png?id=5b755e88c37650cafe0d"
 }
