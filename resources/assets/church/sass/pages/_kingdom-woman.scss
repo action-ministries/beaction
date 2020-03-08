@@ -196,7 +196,7 @@ $womens-secondary: #FFDE59;
     .features {
         background: {
             attachment: fixed;
-            image: linear-gradient(45deg, rgba($womens-primary, .7), rgba(#38B6FF, .95)), url('../img/gtcc.jpg');
+            image: linear-gradient(45deg, rgba($womens-primary, .7), rgba(lighten($womens-primary, .5), .95)), url('../img/gtcc.jpg');
             position: top center;
             repeat: no-repeat;
         }
@@ -310,17 +310,29 @@ $womens-secondary: #FFDE59;
                 }
             }
             &.bishop {background-image: url('../img/pastorike.jpg');}
-            &.elijah {background-image: url('../img/minelijah2020.jpg');}
-            &.demetrius {
+            &.casandra {
                 background: {
-                    image: url('../img/pastorD.jpg');
-                    position: center -7em;
+                    image: url('../img/presidentCasandra.jpg');
+                    position: center -16em;
+                }
+            }
+            &.courtney {
+                background: {
+                    image: url('../img/courtney-white.jpg');
+                    position: -6em -20em;
+                    size: 200% auto;
+                }
+            }
+            &.peggy {
+                background: {
+                    image: url('../img/peggy.jpg');
+                    position: center -5em;
                 }
             }
 
             .text-container {
                 background: {
-                    image: linear-gradient(45deg, rgba($womens-secondary, .9), rgba($womens-primary, .75));
+                    image: linear-gradient(-45deg, rgba($womens-secondary, .9), rgba($womens-primary, .75));
                 }
                 bottom: 0;
                 color: $white;
@@ -387,7 +399,7 @@ $womens-secondary: #FFDE59;
     .contact {
         background: {
             attachment: fixed;
-            image: linear-gradient(45deg, rgba($womens-primary, .7), rgba(#38B6FF, .95)), url('../img/mawf.png');
+            image: linear-gradient(45deg, rgba($womens-primary, .7), rgba(lighten($womens-primary, .5), .95)), url('../img/smnf.png');
             position: center top;
             size: 100% auto;
         }

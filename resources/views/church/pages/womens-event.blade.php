@@ -12,7 +12,7 @@
             </div>
              <div class="row button-wrapper">
                 <button type="button" class="btn btn-secondary btn-sm" data-target="#km-registration" data-toggle="modal">Register Now!</button>
-                <a class="btn btn-primary btn-sm" href="#" target="_blank">Get Tickets</a>
+                <a class="btn btn-primary btn-sm" href="//www.eventbrite.com/e/kingdom-woman-show-me-naomi-tickets-98503373241" target="_blank">Get Tickets</a>
             </div>
             <div class="photo"></div>
         </div>
@@ -68,19 +68,19 @@
                         <h3>Bishop Ike Motley</h3>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 speaker elijah">
+                <div class="col-sm-6 col-md-4 speaker casandra">
                     <div class="text-container">
-                        <h3>Minister Elijah Williams</h3>
+                        <h3>Casandra Davis</h3>
                     </div>
                 </div>
-                <!-- <div class="col-sm-6 col-md-4 speaker randy">
+                <div class="col-sm-6 col-md-4 speaker courtney">
                     <div class="text-container">
-                        <h3>Dr. Randolph Shed</h3>
+                        <h3>Courtney Williams</h3>
                     </div>
-                </div> -->
-                <div class="col-sm-6 col-md-4 speaker demetrius">
+                </div>
+                <div class="col-sm-6 col-md-4 speaker peggy">
                     <div class="text-container">
-                        <h3>Pastor Demetrius Moore</h3>
+                        <h3>Peggy Demetri</h3>
                     </div>
                 </div>
                 <!-- <div class="col-sm-6 col-md-4 speaker harry">
@@ -120,7 +120,7 @@
                             <button type="button" class="btn btn-secondary btn-sm" data-target="#km-registration" data-toggle="modal">Register Now!</button>
                         </div>
                         <div class="col-md-4">
-                            <a class="btn btn-primary btn-center btn-sm" href="//www.eventbrite.com/e/kingdom-man-men-at-work-tickets-97654534341" target="_blank">Get Tickets</a>
+                            <a class="btn btn-primary btn-center btn-sm" href="//www.eventbrite.com/e/kingdom-woman-show-me-naomi-tickets-98503373241" target="_blank">Get Tickets</a>
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                         </button>
                     </div>
                     <div class="modal-body">
-                        <iframe src="//docs.google.com/forms/d/e/1FAIpQLSfw9Je6eYnBwH_LZfFwBPWRRwIXTbx4yTOr_bEvs42OZsxElA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd88hh9WwHnQ81-5W5dU1IQwFn_LhZdNHC3vUhF-6fh-EJ7YQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

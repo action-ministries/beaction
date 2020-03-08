@@ -41,7 +41,7 @@ $churchRoutes = function() {
         return view('church.pages.mens-event');
     });
 
-    Route::get('/kingdom-woman-staging', function () {
+    Route::get('/kingdom-woman', function () {
         return view('church.pages.womens-event');
     });
 };
