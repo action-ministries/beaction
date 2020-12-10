@@ -75,3 +75,17 @@ blockquote {
     }
   }
 }
+
+.font {
+  @at-root &-weight {
+    @at-root &-bold {
+      font-weight: 700;
+    }
+    @at-root &-normal {
+      font-weight: 400;
+    }
+    @at-root &-light {
+      font-weight: 300;
+    }
+  }
+}

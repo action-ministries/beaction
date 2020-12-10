@@ -1,1 +1,1408 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600,700,800);@import url(https://fonts.googleapis.com/css?family=Pinyon+Script|Bebas+Neue|Open+Sans&display=swap);html{scroll-behavior:smooth}html .church{font-size:10px;margin:0 auto;min-width:375px;max-width:192em}html .church .darkbg{background-color:#252525!important;color:#fefefe!important}html .church .bluebg{background-color:#398cbd!important;color:#fefefe!important}html .church .purplebg{background-color:#af7af2!important;color:#fefefe!important}html .church .yellowbg{background-color:#f2f07a!important;color:#252525!important}html .church .salmonbg{background-color:#f06165!important;color:#fefefe!important}html .church .facebook-text{color:#3b5998}html .church .instagram-text{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}html .church .twitter-text{color:#0084ff}html .church .snapchat-text{color:#fffb00}html .church .btn-outline-salmon{color:#f06165;border-color:#f06165}html .church .btn-outline-salmon:hover{background-color:#f06165;color:#fefefe}html .church .btn-outline-purple{color:#af7af2;border-color:#af7af2}html .church .btn-outline-purple:hover{background-color:#af7af2;color:#fefefe}html .church .btn-outline-blue{color:#398cbd;border-color:#398cbd}html .church .btn-outline-blue:hover{background-color:#398cbd;color:#fefefe}html .church .btn-outline-yellow{color:#f2f07a;border-color:#f2f07a}html .church .btn-outline-yellow:hover{background-color:#f2f07a;color:#252525}html .church body{padding-top:60px}html .church iframe{width:100%;height:400px}@media (min-width:1600px){html .church iframe{height:600px}}html .church .row{margin:0;width:100%}html .church .btn{display:inline-block;font-size:1.5em;min-width:150px;padding:10px 25px;transition:all .4s linear;border-radius:15px}html .church .btn-center{display:block;margin:0 auto;text-align:center}html .church .btn-purple:hover{color:#fefefe!important}html .church .btn-salmon{background-color:#f06165!important;border-color:#f06165!important;color:#fefefe}html .church .btn-salmon:hover{background-color:#d7141a!important;border-color:#d7141a!important}html .church .btn-purple{background-color:#af7af2!important;border-color:#af7af2!important;color:#fefefe}html .church .btn-purple:hover{background-color:#771de9!important;border-color:#771de9!important}html .church .btn-ghost{background:transparent;color:#fefefe;border:2px solid #fefefe;border-radius:15px}html .church .btn-ghost:hover{background-color:hsla(0,0%,99.6%,.2);color:#fdfdfd}html .church .modal-open .modal.fade.in .modal-header{text-align:center}html .church .modal-open .modal.fade.in:not(.show){opacity:1}html .church .modal-open .modal-backdrop.fade.in{opacity:.5}html .church .modal{padding-top:10%}html .church .modal .modal-dialog{width:60%;max-width:100%}html .church .modal .modal-dialog .modal-header{align-items:center;flex-direction:column;border:none}html .church .modal .modal-dialog .modal-header .close{margin-top:10px;margin-right:30px}html .church .modal .modal-dialog .modal-content{background-color:#f06165!important;color:#fefefe;border-radius:40px;padding:40px 80px}html .church .jumbotron{border-radius:0;margin-bottom:0;padding:75px}@media (min-width:1600px){html .church .jumbotron{min-height:600px}}html .church .content{display:flex;align-items:center;justify-content:center}@media (max-width:768px){html .church .content{min-height:350px}}html .church .content .wrap{width:75%}@media (max-width:768px){html .church .content .wrap{width:90%}}@media (min-width:1600px){html .church .content .wrap{font-size:1.25em;max-width:680px}}html .church .content .wrap p{font-size:1.4em}@media (min-width:1600px){html .church .content .wrap p{font-size:1.25em}}html .church .cards{text-align:center;padding:60px;background-image:url(http://via.placeholder.com/600/600);background-position:50%;background-size:100%}html .church .cards a{text-decoration:none;font-size:1.5em}html .church .nopad{padding:0}@media (max-width:768px){html .church .mobile-hz-nopad{padding-left:0!important;padding-right:0!important}}@media (max-width:768px){html .church .mobile-v-nopad{padding-top:0!important;padding-bottom:0!important}}html .church .morepad{padding:60px}@media (min-width:1400px){html .church .morepad{padding:120px}}html .church .pv60{padding-top:60px;padding-bottom:60px}@media (max-width:768px){html .church .mobile-m0{margin:0!important}}html .church .mb15{margin-bottom:15px}html .church .mb25{margin-bottom:25px}html .church .mb50{margin-bottom:50px}@media (max-width:768px){html .church .mobile-mb50{margin-bottom:50px}}html .church .flip .row .col-lg-6.content{order:-1}html .church h1,html .church h2,html .church h3,html .church h4,html .church h5,html .church h6{font-family:Raleway,sans-serif;font-weight:700}html .church h1{font-size:6em}@media (max-width:768px){html .church h1{font-size:4em}}@media (min-width:1400px){html .church h1{font-size:9em}}html .church h2{font-size:2.7em}@media (min-width:1400px){html .church h2{font-size:4em}}html .church h3{font-size:2.5em}html .church h4{font-size:2em}html .church h5{font-size:1em}html .church h6{font-size:.75em}html .church p{font-size:16px}@media (min-width:1400px){html .church p{font-size:1.75em}}html .church a{color:inherit}html .church blockquote{color:#777;font-size:24px;font-style:italic}@media (min-width:1400px){html .church blockquote{font-size:2em}}html .church .jumbotron.about h2,html .church .jumbotron.connect h2,html .church .jumbotron.home h2,html .church .jumbotron.serve h2{font-size:4em}@media (max-width:768px){html .church .jumbotron.about h2,html .church .jumbotron.connect h2,html .church .jumbotron.home h2,html .church .jumbotron.serve h2{font-size:2.9em}}@media (min-width:1400px){html .church .jumbotron.about h2,html .church .jumbotron.connect h2,html .church .jumbotron.home h2,html .church .jumbotron.serve h2{font-size:6.5em}}@media (min-width:1400px){html .church .jumbotron.about p,html .church .jumbotron.connect p,html .church .jumbotron.home p,html .church .jumbotron.serve p{font-size:2.5em}}html .church .navbar{min-height:100px;box-shadow:4px 4px 8px rgba(37,37,37,.4)}html .church .navbar .navbar-brand{align-items:center;display:flex;text-decoration:none}@media (min-width:1400px){html .church .navbar .navbar-brand{font-size:2em}}html .church .navbar .navbar-brand>img{width:50px;height:50px;margin-right:10px}html .church .navbar .navbar-nav .nav-item{padding-right:35px}@media (max-width:768px){html .church .navbar .navbar-nav .nav-item{padding-top:10px}}html .church .navbar .navbar-nav .nav-item:last-child{padding-right:0}html .church .navbar .navbar-nav .nav-item .nav-link{font-size:1.6em;text-decoration:none;font-weight:700}@media (min-width:1400px){html .church .navbar .navbar-nav .nav-item .nav-link{font-size:1.5em}}html .church .navbar .navbar-nav .nav-item .btn{font-size:1em;font-weight:700;padding:10px 20px}html .church .navbar .navbar-nav .nav-item.active .nav-link{border-bottom:3px solid #f06165}html .church footer{align-items:center;display:flex;justify-content:center;padding:25px 50px}html .church footer p{margin:0;text-align:center}html .church .jumbotron.home{padding:37em 5em 5.5em;margin-bottom:0;background-image:linear-gradient(rgba(0,0,0,.25),rgba(0,0,0,.75)),url(/images/pastorIke2.jpg?5c5efcd10c180edbdae692224c1203c2);background-position:center 0;background-repeat:no-repeat;background-size:cover}html .church .jumbotron.home .hero-text{text-align:right;color:#fefefe}html .church .jumbotron.home .hero-text p{font-size:1.4em}@media (min-width:1400px){html .church .jumbotron.home .hero-text p{font-size:2.3em;max-width:680px;float:right}}html .church .jumbotron.home .hero-text h1.title{font-size:3.6em}@media (min-width:1400px){html .church .jumbotron.home .hero-text h1.title{font-size:5.5em}}html .church .know-social-icons{align-items:center;display:flex;justify-content:space-around}html .church .jumbotron.about{padding:150px 50px}html .church .jumbotron.about:first-of-type{margin-top:100px}html .church .leadership .row .media img{width:100px}html .church .leadership .row .media .media-body h3{font-size:2em}@media (min-width:1400px){html .church .leadership .row .media .media-body h3{font-size:3em}}html .church .leadership .row .media .media-body h3 small{font-size:14px;margin-top:1px;margin-bottom:5px;display:block}@media (min-width:1400px){html .church .leadership .row .media .media-body h3 small{font-size:.5em}}html .church .leadership .row .media .media-body .social-icons .fa{font-size:25px;margin-right:5px}html .church .leadership .row .media img.img-circle{width:100px;margin-right:15px;border:1px solid #252525}html .church .beliefs ul{margin:0}html .church .beliefs ul li{font-size:16px}@media (max-width:768px){html .church .beliefs ul li{padding-bottom:20px}}@media (min-width:1400px){html .church .beliefs ul li{font-size:1.75em}}html .church .jumbotron.serve{margin-top:100px;margin-bottom:0;background-image:linear-gradient(rgba(0,0,0,.5),#000),url(/images/pastorIke-minElijah.jpg?77df4bec28bc2b2c12647003ae1cd91c);background-position:center 0}html .church .jumbotron.events,html .church .jumbotron.serve{padding:150px 50px;background-repeat:no-repeat;background-size:cover}html .church .jumbotron.events{background-image:linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.95)),url(/images/bbb_flyer.png?a0a4e6f02de534782a85cce2e798a5f4);background-position:center 22.5%;border-radius:0}@media (max-width:768px){html .church .jumbotron.events{padding:100px 0}}html .church .jumbotron.events:first-of-type{margin-top:100px}html .church .event__content-wrap{width:90%!important}html .church .event__content-title-date{color:hsla(0,0%,99.6%,.75);display:block;font-size:.5em;margin:10px 0}html .church .event__content-address{color:hsla(0,0%,99.6%,.75);font-style:italic}html .church .kingdom-man h1,html .church .kingdom-man h2,html .church .kingdom-man h3,html .church .kingdom-man h4,html .church .kingdom-man h5,html .church .kingdom-man h6{font-family:Bebas Neue,sans-serif;font-weight:400}html .church .kingdom-man .btn-primary{background-color:#ffde59;border-color:#ffde59;color:#252525}html .church .kingdom-man .btn-primary:hover{background-color:#f2c200;border-color:#f2c200}html .church .kingdom-man .btn-primary.register{font-size:3em}html .church .kingdom-man .btn-secondary{background-color:#5271ff;border-color:#5271ff;color:#fefefe}html .church .kingdom-man .btn-secondary:hover{background-color:#395cff;border-color:#395cff;color:#f1f1f1}html .church .kingdom-man .jumbotron{background-image:linear-gradient(-45deg,#5271ff,rgba(56,182,255,.5)),url(/images/gtcc.jpg?d10e2bae074d6d1a4e47e765f82a93f9);background-repeat:no-repeat;background-size:cover;padding:20em 0 7.5em 2.5em;position:relative}@media screen and (min-width:768px){html .church .kingdom-man .jumbotron{background-size:100% auto;padding-left:7.5em}}html .church .kingdom-man .jumbotron h1{color:#ffde59;line-height:.85;font-size:8em;font-style:normal}@media screen and (min-width:768px){html .church .kingdom-man .jumbotron h1{font-size:12em;line-height:.75}}@media screen and (min-width:960px){html .church .kingdom-man .jumbotron h1{font-size:14em}}html .church .kingdom-man .jumbotron h1 small{color:#fefefe;display:block;font-size:.5em}html .church .kingdom-man .jumbotron h1 small span{display:block;font-size:.4em}html .church .kingdom-man .jumbotron h1:after{border:.02em solid #fefefe;content:"";display:block;margin-top:.2em;width:46%}html .church .kingdom-man .jumbotron .photo{background-image:url(/images/pastorike-km.png?a43d6f3e7b8865135a18648f062b1ee6);background-repeat:no-repeat;background-size:auto 100%;bottom:0;display:none;height:30em;position:absolute;right:0;width:30em}@media screen and (min-width:510px){html .church .kingdom-man .jumbotron .photo{display:block}}@media screen and (min-width:768px){html .church .kingdom-man .jumbotron .photo{height:35em;width:35em}}@media screen and (min-width:960px){html .church .kingdom-man .jumbotron .photo{height:45em;right:5em;width:56em}}html .church .kingdom-man .jumbotron address,html .church .kingdom-man .jumbotron time{font-size:1.75em;margin-bottom:0}html .church .kingdom-man .jumbotron .btn{margin-right:1em;margin-top:1em}html .church .kingdom-man .jumbotron .btn:last-child{margin-right:0}html .church .kingdom-man .wrap{padding:5em 0}@media screen and (min-width:959px){html .church .kingdom-man .wrap{padding:0}}html .church .kingdom-man .wrap h2{line-height:.8;margin-left:auto;max-width:7em}html .church .kingdom-man .wrap h2:after{border:.05em solid #5271ff;content:"";display:block;margin:.2em 0 .3em auto;width:5em}html .church .kingdom-man .wrap p{margin-left:auto;max-width:26em}html .church .kingdom-man .features{background-attachment:fixed;background-image:linear-gradient(45deg,rgba(82,113,255,.7),rgba(56,182,255,.95)),url(/images/gtcc.jpg?d10e2bae074d6d1a4e47e765f82a93f9);background-position:top;background-repeat:no-repeat;color:#5271ff;padding:10em 0;margin:0 auto}html .church .kingdom-man .features h2{color:#ffde59}html .church .kingdom-man .features .card{margin:0 auto 3em;max-width:100%;padding:5em 0 10em}@media screen and (min-width:768px){html .church .kingdom-man .features .card{margin-bottom:0;max-width:32%}}html .church .kingdom-man .features .card .fas{font-size:4em;margin-bottom:.2em}html .church .kingdom-man .features .card p{font-size:1.3em;margin:0 auto}html .church .kingdom-man .features .card.fire p{max-width:17em}html .church .kingdom-man .features .card.food p{max-width:13em}html .church .kingdom-man .features .card.fellowship p{max-width:15em}html .church .kingdom-man .speakers .speaker{background-image:url(https://i.pravatar.cc/720);background-position:50%;background-repeat:no-repeat;background-size:cover;padding-top:75%;position:relative}@media screen and (min-width:576px){html .church .kingdom-man .speakers .speaker{padding-top:50%}}@media screen and (min-width:768px){html .church .kingdom-man .speakers .speaker{padding-top:33.3%}}@media screen and (min-width:960px){html .church .kingdom-man .speakers .speaker{padding-top:25%}}html .church .kingdom-man .speakers .speaker.speaker-noimg{background-image:none!important;padding-top:75%}@media screen and (min-width:576px){html .church .kingdom-man .speakers .speaker.speaker-noimg{padding-top:50%}}@media screen and (min-width:768px){html .church .kingdom-man .speakers .speaker.speaker-noimg{padding-top:33.3%}}@media screen and (min-width:960px){html .church .kingdom-man .speakers .speaker.speaker-noimg{padding-top:25%}}html .church .kingdom-man .speakers .speaker.speaker-noimg .text-container{background-image:none;color:#252525;opacity:1}html .church .kingdom-man .speakers .speaker.speaker-noimg .text-container h2{line-height:.8;margin-right:auto;max-width:6em}html .church .kingdom-man .speakers .speaker.speaker-noimg .text-container h2:after{border:.05em solid #5271ff;content:"";display:block;margin:.2em 0 .3em;width:4em}html .church .kingdom-man .speakers .speaker.speaker-noimg .text-container p{margin-left:auto;max-width:26em}html .church .kingdom-man .speakers .speaker.bishop{background-image:url(/images/pastorike.jpg?2e1760b17a8d346752a751b2ee9761e1)}html .church .kingdom-man .speakers .speaker.elijah{background-image:url(/images/minelijah2020.jpg?997e6d73ccf1089eb2a1a30b32931f8f)}html .church .kingdom-man .speakers .speaker.demetrius{background-image:url(/images/pastorD.jpg?c38b16be601f4cdc491274e6b0787680);background-position:center -7em}html .church .kingdom-man .speakers .speaker .text-container{background-image:linear-gradient(45deg,rgba(255,222,89,.9),rgba(82,113,255,.75));bottom:0;color:#fefefe;left:0;margin:auto;padding:25% 0 0 4em;position:absolute;opacity:0;right:0;top:0;transition:all .36s ease}@media screen and (min-width:768px){html .church .kingdom-man .speakers .speaker .text-container{padding-top:33.3%}}@media screen and (min-width:960px){html .church .kingdom-man .speakers .speaker .text-container{padding-top:25%}}html .church .kingdom-man .speakers .speaker .text-container p{max-width:19em}html .church .kingdom-man .speakers .speaker:hover .text-container{opacity:1}html .church .kingdom-man .schedule{background-image:linear-gradient(45deg,rgba(82,113,255,.7),rgba(56,182,255,.95));padding:10em 0}html .church .kingdom-man .schedule>.row{margin:0 auto;max-width:96em}html .church .kingdom-man .schedule .nav-tabs{border-color:#5271ff}html .church .kingdom-man .schedule .nav-tabs .nav-link{font-size:2em}html .church .kingdom-man .schedule .nav-tabs .nav-link:hover{border-color:#5271ff}html .church .kingdom-man .schedule .nav-tabs .active{background-color:rgba(82,113,255,.5);border-color:#5271ff;color:#fefefe}html .church .kingdom-man .contact{background-attachment:fixed;background-image:linear-gradient(45deg,rgba(82,113,255,.7),rgba(56,182,255,.95)),url(/images/mawf.png?e42a859ee1094a9a4b0b7e82528aed8c);background-position:top;background-size:100% auto;color:#fefefe;padding:10em 0}html .church .kingdom-man .contact h2{color:#ffde59}html .church .kingdom-man .contact .btn{display:inline-block;padding:10px;margin-bottom:1em}@media screen and (min-width:768px){html .church .kingdom-man .contact .btn{margin-bottom:0}}html .church .kingdom-man .contact a:not(.btn){font-size:2em;margin-right:1em}html .church .kingdom-man .contact a:not(.btn):last-child{margin-right:0}html .church .kingdom-man .sponsors{padding-bottom:2em;padding-top:2em}html .church .kingdom-man .sponsors .sponsor{font-size:2.1em;padding:1em 0}@media screen and (min-width:959px){html .church .kingdom-man .sponsors .sponsor{font-size:2.6em}}html .church .kingdom-man .sponsors .sponsor a{font-family:Open Sans,sans-serif}html .church .kingdom-man .sponsors .sponsor img{height:64px;width:auto}@media screen and (min-width:959px){html .church .kingdom-man .sponsors .sponsor img{height:100px}}html .church .kingdom-man .modal{padding-top:0}html .church .kingdom-man .modal .close{color:#fefefe}html .church .kingdom-man .modal .modal-dialog{background-color:transparent;margin:0 auto;min-width:375px}html .church .kingdom-man .modal .modal-dialog .modal-header{padding:0}html .church .kingdom-man .modal .modal-dialog .modal-content{background-color:transparent!important;border:none;padding:0}html .church .kingdom-woman h1,html .church .kingdom-woman h2,html .church .kingdom-woman h3,html .church .kingdom-woman h4,html .church .kingdom-woman h5,html .church .kingdom-woman h6{font-family:Pinyon Script,sans-serif;font-weight:400}html .church .kingdom-woman .btn-primary{background-color:#ffde59;border-color:#ffde59;color:#252525}html .church .kingdom-woman .btn-primary:hover{background-color:#f2c200;border-color:#f2c200}html .church .kingdom-woman .btn-primary.register{font-size:3em}html .church .kingdom-woman .btn-secondary{background-color:#3a0e74;border-color:#3a0e74;color:#fefefe}html .church .kingdom-woman .btn-secondary:hover{background-color:#2f0b5d;border-color:#2f0b5d;color:#f1f1f1}html .church .kingdom-woman .jumbotron{background-image:linear-gradient(-45deg,#3a0e74,rgba(104,25,207,.5)),url(/images/gtcc.jpg?d10e2bae074d6d1a4e47e765f82a93f9);background-repeat:no-repeat;background-size:cover;padding:20em 0 7.5em 2.5em;position:relative}@media screen and (min-width:768px){html .church .kingdom-woman .jumbotron{background-size:100% auto;padding-left:7.5em}}html .church .kingdom-woman .jumbotron h1{color:#ffde59;line-height:.5;margin-left:.1em;position:relative;width:2.38em;font-size:13em;font-style:normal}@media screen and (min-width:768px){html .church .kingdom-woman .jumbotron h1{font-size:26em;line-height:.75;margin-left:0}}@media screen and (min-width:960px){html .church .kingdom-woman .jumbotron h1{font-size:25em;margin-left:.2em}}html .church .kingdom-woman .jumbotron h1 small{color:#fefefe;display:block;position:absolute;right:0;top:-.3em;font-family:Bebas Neue;font-size:.2em}@media screen and (min-width:768px){html .church .kingdom-woman .jumbotron h1 small{top:.3em}}html .church .kingdom-woman .jumbotron h1 small span{display:block;font-size:.4em;margin-bottom:.7em}@media screen and (min-width:768px){html .church .kingdom-woman .jumbotron h1 small span{margin-bottom:.1em}}html .church .kingdom-woman .jumbotron h1 .small-title{bottom:30%;font-size:.11em;left:-5%;position:absolute;top:0;-webkit-transform:rotate(-90deg);transform:rotate(-90deg)}@media screen and (min-width:768px){html .church .kingdom-woman .jumbotron h1 .small-title{left:-2%}}html .church .kingdom-woman .jumbotron .details{margin-top:5em}html .church .kingdom-woman .jumbotron .photo{background-image:url(/images/pastorike-km.png?a43d6f3e7b8865135a18648f062b1ee6);background-repeat:no-repeat;background-size:auto 100%;bottom:0;display:none;height:30em;position:absolute;right:0;width:30em}@media screen and (min-width:510px){html .church .kingdom-woman .jumbotron .photo{display:block}}@media screen and (min-width:768px){html .church .kingdom-woman .jumbotron .photo{height:35em;width:35em}}@media screen and (min-width:960px){html .church .kingdom-woman .jumbotron .photo{height:45em;right:5em;width:56em}}html .church .kingdom-woman .jumbotron address,html .church .kingdom-woman .jumbotron time{font-size:1.75em;margin-bottom:0}html .church .kingdom-woman .jumbotron .btn{margin-right:1em;margin-top:1em}html .church .kingdom-woman .jumbotron .btn:last-child{margin-right:0}html .church .kingdom-woman .wrap{padding:5em 0}@media screen and (min-width:959px){html .church .kingdom-woman .wrap{padding:0}}html .church .kingdom-woman .wrap h2{line-height:.8;margin-left:auto;max-width:7em}html .church .kingdom-woman .wrap h2:after{border:.05em solid #3a0e74;content:"";display:block;margin:.2em 0 .3em auto;width:5em}html .church .kingdom-woman .wrap p{margin-left:auto;max-width:26em}html .church .kingdom-woman .features{background-attachment:fixed;background-image:linear-gradient(45deg,rgba(58,14,116,.7),rgba(59,14,118,.95)),url(/images/gtcc.jpg?d10e2bae074d6d1a4e47e765f82a93f9);background-position:top;background-repeat:no-repeat;color:#3a0e74;padding:10em 0;margin:0 auto}html .church .kingdom-woman .features h2{color:#ffde59}html .church .kingdom-woman .features .card{margin:0 auto 3em;max-width:100%;padding:5em 0 10em}@media screen and (min-width:768px){html .church .kingdom-woman .features .card{margin-bottom:0;max-width:32%}}html .church .kingdom-woman .features .card .fas{font-size:4em;margin-bottom:.2em}html .church .kingdom-woman .features .card p{font-size:1.3em;margin:0 auto}html .church .kingdom-woman .features .card.fire p{max-width:17em}html .church .kingdom-woman .features .card.food p{max-width:13em}html .church .kingdom-woman .features .card.fellowship p{max-width:15em}html .church .kingdom-woman .speakers .speaker{background-image:url(https://i.pravatar.cc/720);background-position:50%;background-repeat:no-repeat;background-size:cover;padding-top:75%;position:relative}@media screen and (min-width:576px){html .church .kingdom-woman .speakers .speaker{padding-top:50%}}@media screen and (min-width:768px){html .church .kingdom-woman .speakers .speaker{padding-top:33.3%}}@media screen and (min-width:960px){html .church .kingdom-woman .speakers .speaker{padding-top:25%}}html .church .kingdom-woman .speakers .speaker.speaker-noimg{background-image:none!important;padding-top:75%}@media screen and (min-width:576px){html .church .kingdom-woman .speakers .speaker.speaker-noimg{padding-top:50%}}@media screen and (min-width:768px){html .church .kingdom-woman .speakers .speaker.speaker-noimg{padding-top:33.3%}}@media screen and (min-width:960px){html .church .kingdom-woman .speakers .speaker.speaker-noimg{padding-top:25%}}html .church .kingdom-woman .speakers .speaker.speaker-noimg .text-container{background-image:none;color:#252525;opacity:1}html .church .kingdom-woman .speakers .speaker.speaker-noimg .text-container h2{line-height:.8;margin-right:auto;max-width:6em}html .church .kingdom-woman .speakers .speaker.speaker-noimg .text-container h2:after{border:.05em solid #3a0e74;content:"";display:block;margin:.2em 0 .3em;width:4em}html .church .kingdom-woman .speakers .speaker.speaker-noimg .text-container p{margin-left:auto;max-width:26em}html .church .kingdom-woman .speakers .speaker.bishop{background-image:url(/images/pastorike.jpg?2e1760b17a8d346752a751b2ee9761e1)}html .church .kingdom-woman .speakers .speaker.casandra{background-image:url(/images/presidentCasandra.jpg?559c096294a51be0f85604a5e2c98d4b);background-position:center -16em}@media screen and (min-width:768px){html .church .kingdom-woman .speakers .speaker.casandra{background-position:50%}}html .church .kingdom-woman .speakers .speaker.courtney{background-image:url(/images/courtney-white.jpg?67420acdb7b96cc4009a40205641fd44);background-position:-6em -20em;background-size:200% auto}@media screen and (min-width:768px){html .church .kingdom-woman .speakers .speaker.courtney{background-position:-6em -10em}}@media screen and (min-width:960px){html .church .kingdom-woman .speakers .speaker.courtney{background-position:-6em -20em}}html .church .kingdom-woman .speakers .speaker.peggy{background-image:url(/images/peggy.jpg?fac7ecbe87b0269ac01e57fc4ca4a44c);background-position:center -5em}@media screen and (min-width:768px){html .church .kingdom-woman .speakers .speaker.peggy{background-position:50%}}@media screen and (min-width:960px){html .church .kingdom-woman .speakers .speaker.peggy{background-position:center -4em}}html .church .kingdom-woman .speakers .speaker .text-container{background-image:linear-gradient(-45deg,rgba(255,222,89,.9),rgba(58,14,116,.75));bottom:0;color:#fefefe;left:0;margin:auto;padding:25% 0 0 4em;position:absolute;opacity:0;right:0;top:0;transition:all .36s ease}@media screen and (min-width:768px){html .church .kingdom-woman .speakers .speaker .text-container{padding-top:33.3%}}@media screen and (min-width:960px){html .church .kingdom-woman .speakers .speaker .text-container{padding-top:25%}}html .church .kingdom-woman .speakers .speaker .text-container p{max-width:19em}html .church .kingdom-woman .speakers .speaker:hover .text-container{opacity:1}html .church .kingdom-woman .schedule{background-image:linear-gradient(45deg,rgba(58,14,116,.7),rgba(56,182,255,.95));padding:10em 0}html .church .kingdom-woman .schedule>.row{margin:0 auto;max-width:96em}html .church .kingdom-woman .schedule .nav-tabs{border-color:#3a0e74}html .church .kingdom-woman .schedule .nav-tabs .nav-link{font-size:2em}html .church .kingdom-woman .schedule .nav-tabs .nav-link:hover{border-color:#3a0e74}html .church .kingdom-woman .schedule .nav-tabs .active{background-color:rgba(58,14,116,.5);border-color:#3a0e74;color:#fefefe}html .church .kingdom-woman .contact{background-attachment:fixed;background-image:linear-gradient(45deg,rgba(58,14,116,.7),rgba(59,14,118,.95)),url(/images/smnf.png?95348964467856181fdb91b77e3e6a5c);background-position:top;background-size:100% auto;color:#fefefe;padding:10em 0}html .church .kingdom-woman .contact h2{color:#ffde59}html .church .kingdom-woman .contact .btn{display:inline-block;padding:10px;margin-bottom:1em}@media screen and (min-width:768px){html .church .kingdom-woman .contact .btn{margin-bottom:0}}html .church .kingdom-woman .contact a:not(.btn){font-size:2em;margin-right:1em}html .church .kingdom-woman .contact a:not(.btn):last-child{margin-right:0}html .church .kingdom-woman .sponsors{padding-bottom:2em;padding-top:2em}html .church .kingdom-woman .sponsors .sponsor{font-size:2.1em;padding:1em 0}@media screen and (min-width:959px){html .church .kingdom-woman .sponsors .sponsor{font-size:2.6em}}html .church .kingdom-woman .sponsors .sponsor a{font-family:Open Sans,sans-serif}html .church .kingdom-woman .sponsors .sponsor img{height:64px;width:auto}@media screen and (min-width:959px){html .church .kingdom-woman .sponsors .sponsor img{height:100px}}html .church .kingdom-woman .modal{padding-top:0}html .church .kingdom-woman .modal .close{color:#fefefe}html .church .kingdom-woman .modal .modal-dialog{background-color:transparent;margin:0 auto;min-width:375px}html .church .kingdom-woman .modal .modal-dialog .modal-header{padding:0}html .church .kingdom-woman .modal .modal-dialog .modal-content{background-color:transparent!important;border:none;padding:0}html .church .jumbotron.locations{padding:150px 50px;background-image:linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.95)),url(/images/map.png?2398b38ba0288ab30cf7e5527cf92dd0);background-repeat:no-repeat;background-size:cover;background-position:center 22.5%;border-radius:0}@media (max-width:768px){html .church .jumbotron.locations{padding:100px 0}}html .church .jumbotron.locations:first-of-type{margin-top:100px}.card-title{font-size:.6em}.card-text{font-size:1.5em}html .church .location-modal.modal .modal-dialog{width:50%}html .church .location-modal.modal .modal-content{background-color:#fefefe!important;border-radius:10px;color:#252525;padding:20px 0}html .church .location-modal.modal .modal-content address,html .church .location-modal.modal .modal-content p,html .church .location-modal.modal .modal-content table{font-size:1.3em}html .church .location-modal.modal .modal-content table th{padding-right:15px}html .church .location-modal.modal .modal-content form label{font-size:1.3em}
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600,700,800);@import url(https://fonts.googleapis.com/css?family=Pinyon+Script|Bebas+Neue|Open+Sans&display=swap);html {
+  scroll-behavior: smooth;
+}
+html .church {
+  font-size: 10px;
+  margin: 0 auto;
+  min-width: 375px;
+  max-width: 192em;
+}
+html .church .darkbg {
+  background-color: #252525 !important;
+  color: #fefefe !important;
+}
+html .church .bluebg {
+  background-color: #398CBD !important;
+  color: #fefefe !important;
+}
+html .church .purplebg {
+  background-color: #AF7AF2 !important;
+  color: #fefefe !important;
+}
+html .church .yellowbg {
+  background-color: #F2F07A !important;
+  color: #252525 !important;
+}
+html .church .salmonbg {
+  background-color: #F06165 !important;
+  color: #fefefe !important;
+}
+html .church .facebook-text {
+  color: #3B5998;
+}
+html .church .instagram-text {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+html .church .twitter-text {
+  color: #0084FF;
+}
+html .church .snapchat-text {
+  color: #FFFB00;
+}
+html .church .btn-outline-salmon {
+  color: #F06165;
+  border-color: #F06165;
+}
+html .church .btn-outline-salmon:hover {
+  background-color: #F06165;
+  color: #fefefe;
+}
+
+html .church .btn-outline-purple {
+  color: #AF7AF2;
+  border-color: #AF7AF2;
+}
+html .church .btn-outline-purple:hover {
+  background-color: #AF7AF2;
+  color: #fefefe;
+}
+
+html .church .btn-outline-blue {
+  color: #398CBD;
+  border-color: #398CBD;
+}
+html .church .btn-outline-blue:hover {
+  background-color: #398CBD;
+  color: #fefefe;
+}
+
+html .church .btn-outline-yellow {
+  color: #F2F07A;
+  border-color: #F2F07A;
+}
+html .church .btn-outline-yellow:hover {
+  background-color: #F2F07A;
+  color: #252525;
+}
+
+html .church body {
+  padding-top: 60px;
+}
+html .church iframe {
+  width: 100%;
+  height: 400px;
+}
+@media (min-width: 1600px) {
+  html .church iframe {
+    height: 600px;
+  }
+}
+html .church .row {
+  margin: 0;
+  width: 100%;
+}
+html .church .btn {
+  display: inline-block;
+  font-size: 1.5em;
+  min-width: 150px;
+  padding: 10px 25px;
+  transition: 0.4s all linear;
+  border-radius: 15px;
+}
+html .church .btn-center {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+html .church .btn-purple {
+  background-color: #AF7AF2 !important;
+  border-color: #AF7AF2 !important;
+  color: #fefefe;
+}
+html .church .btn-purple:hover {
+  background-color: #771de9 !important;
+  color: #fefefe !important;
+  border-color: #771de9 !important;
+}
+html .church .btn-salmon {
+  background-color: #F06165 !important;
+  border-color: #F06165 !important;
+  color: #fefefe;
+}
+html .church .btn-salmon:hover {
+  background-color: #d7141a !important;
+  border-color: #d7141a !important;
+}
+html .church .btn-purple {
+  background-color: #AF7AF2 !important;
+  border-color: #AF7AF2 !important;
+  color: #fefefe;
+}
+html .church .btn-purple:hover {
+  background-color: #771de9 !important;
+  border-color: #771de9 !important;
+}
+html .church .btn-ghost {
+  background: transparent;
+  color: #fefefe;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #fefefe;
+  border-radius: 15px;
+}
+html .church .btn-ghost:hover {
+  background-color: rgba(254, 254, 254, 0.2);
+  color: #fdfdfd;
+}
+html .church .modal-open .modal.fade.in .modal-header {
+  text-align: center;
+}
+html .church .modal-open .modal.fade.in:not(.show) {
+  opacity: 1;
+}
+html .church .modal-open .modal-backdrop.fade.in {
+  opacity: 0.5;
+}
+html .church .modal {
+  padding-top: 10%;
+}
+html .church .modal .modal-dialog {
+  width: 60%;
+  max-width: 100%;
+}
+html .church .modal .modal-dialog .modal-header {
+  align-items: center;
+  flex-direction: column;
+  border: none;
+}
+html .church .modal .modal-dialog .modal-header .close {
+  margin-top: 10px;
+  margin-right: 30px;
+}
+html .church .modal .modal-dialog .modal-content {
+  background-color: #F06165 !important;
+  color: #fefefe;
+  border-radius: 40px;
+  padding: 40px 80px;
+}
+html .church .jumbotron {
+  border-radius: 0;
+  margin-bottom: 0;
+  padding: 75px;
+}
+@media (min-width: 1600px) {
+  html .church .jumbotron {
+    min-height: 600px;
+  }
+}
+html .church .content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width: 768px) {
+  html .church .content {
+    min-height: 350px;
+  }
+}
+html .church .content .wrap {
+  width: 75%;
+}
+@media (max-width: 768px) {
+  html .church .content .wrap {
+    width: 90%;
+  }
+}
+@media (min-width: 1600px) {
+  html .church .content .wrap {
+    font-size: 1.25em;
+    max-width: 680px;
+  }
+}
+html .church .content .wrap p {
+  font-size: 1.4em;
+}
+@media (min-width: 1600px) {
+  html .church .content .wrap p {
+    font-size: 1.25em;
+  }
+}
+html .church .cards {
+  text-align: center;
+  padding: 60px;
+  background-image: url("http://via.placeholder.com/600/600");
+  background-position: center center;
+  background-size: 100%;
+}
+html .church .cards a {
+  text-decoration: none;
+  font-size: 1.5em;
+}
+html .church .nopad {
+  padding: 0;
+}
+@media (max-width: 768px) {
+  html .church .mobile-hz-nopad {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+@media (max-width: 768px) {
+  html .church .mobile-v-nopad {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}
+html .church .morepad {
+  padding: 60px;
+}
+@media (min-width: 1400px) {
+  html .church .morepad {
+    padding: 120px;
+  }
+}
+html .church .pv15 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+html .church .pv30 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+html .church .pv60 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+@media (max-width: 768px) {
+  html .church .mobile-m0 {
+    margin: 0 !important;
+  }
+}
+html .church .mb15 {
+  margin-bottom: 15px;
+}
+html .church .mb25 {
+  margin-bottom: 25px;
+}
+html .church .mb50 {
+  margin-bottom: 50px;
+}
+@media (max-width: 768px) {
+  html .church .mobile-mb50 {
+    margin-bottom: 50px;
+  }
+}
+html .church .flip .row .col-lg-6.content {
+  order: -1;
+}
+html .church h1, html .church h2, html .church h3, html .church h4, html .church h5, html .church h6 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+html .church h1 {
+  font-size: 6em;
+}
+@media (max-width: 768px) {
+  html .church h1 {
+    font-size: 4em;
+  }
+}
+@media (min-width: 1400px) {
+  html .church h1 {
+    font-size: 9em;
+  }
+}
+html .church h2 {
+  font-size: 2.7em;
+}
+@media (min-width: 1400px) {
+  html .church h2 {
+    font-size: 4em;
+  }
+}
+html .church h3 {
+  font-size: 2.5em;
+}
+html .church h4 {
+  font-size: 2em;
+}
+html .church h5 {
+  font-size: 1em;
+}
+html .church h6 {
+  font-size: 0.75em;
+}
+html .church p {
+  font-size: 16px;
+}
+@media (min-width: 1400px) {
+  html .church p {
+    font-size: 1.75em;
+  }
+}
+html .church a {
+  color: inherit;
+}
+html .church blockquote {
+  color: #777;
+  font-size: 24px;
+  font-style: italic;
+}
+@media (min-width: 1400px) {
+  html .church blockquote {
+    font-size: 2em;
+  }
+}
+html .church .jumbotron.home h2, html .church .jumbotron.about h2, html .church .jumbotron.serve h2, html .church .jumbotron.connect h2 {
+  font-size: 4em;
+}
+@media (max-width: 768px) {
+  html .church .jumbotron.home h2, html .church .jumbotron.about h2, html .church .jumbotron.serve h2, html .church .jumbotron.connect h2 {
+    font-size: 2.9em;
+  }
+}
+@media (min-width: 1400px) {
+  html .church .jumbotron.home h2, html .church .jumbotron.about h2, html .church .jumbotron.serve h2, html .church .jumbotron.connect h2 {
+    font-size: 6.5em;
+  }
+}
+@media (min-width: 1400px) {
+  html .church .jumbotron.home p, html .church .jumbotron.about p, html .church .jumbotron.serve p, html .church .jumbotron.connect p {
+    font-size: 2.5em;
+  }
+}
+html .church .font-weight-bold {
+  font-weight: 700;
+}
+
+html .church .font-weight-normal {
+  font-weight: 400;
+}
+
+html .church .font-weight-light {
+  font-weight: 300;
+}
+
+html .church .navbar {
+  min-height: 100px;
+  box-shadow: 4px 4px 8px rgba(37, 37, 37, 0.4);
+}
+html .church .navbar .navbar-brand {
+  align-items: center;
+  display: flex;
+  text-decoration: none;
+}
+@media (min-width: 1400px) {
+  html .church .navbar .navbar-brand {
+    font-size: 2em;
+  }
+}
+html .church .navbar .navbar-brand > img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+html .church .navbar .navbar-nav .nav-item {
+  padding-right: 35px;
+}
+@media (max-width: 768px) {
+  html .church .navbar .navbar-nav .nav-item {
+    padding-top: 10px;
+  }
+}
+html .church .navbar .navbar-nav .nav-item:last-child {
+  padding-right: 0;
+}
+html .church .navbar .navbar-nav .nav-item .nav-link {
+  font-size: 1.6em;
+  text-decoration: none;
+  font-weight: 700;
+}
+@media (min-width: 1400px) {
+  html .church .navbar .navbar-nav .nav-item .nav-link {
+    font-size: 1.5em;
+  }
+}
+html .church .navbar .navbar-nav .nav-item .btn {
+  font-size: 1em;
+  font-weight: 700;
+  padding: 10px 20px;
+}
+html .church .navbar .navbar-nav .nav-item.active .nav-link {
+  border-bottom: 3px solid #F06165;
+}
+html .church footer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 25px 50px;
+}
+html .church footer p {
+  margin: 0;
+  text-align: center;
+}
+html .church .notification p {
+  margin: 0 !important;
+}
+html .church .jumbotron.home {
+  padding: 37em 5em 5.5em;
+  margin-bottom: 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.75)), url(/images/pastorIke2.jpg?5c5efcd10c180edbdae692224c1203c2);
+  background-position: center 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+html .church .jumbotron.home .hero-text {
+  text-align: right;
+  color: #fefefe;
+}
+html .church .jumbotron.home .hero-text p {
+  font-size: 1.4em;
+}
+@media (min-width: 1400px) {
+  html .church .jumbotron.home .hero-text p {
+    font-size: 2.3em;
+    max-width: 680px;
+    float: right;
+  }
+}
+html .church .jumbotron.home .hero-text h1.title {
+  font-size: 3.6em;
+}
+@media (min-width: 1400px) {
+  html .church .jumbotron.home .hero-text h1.title {
+    font-size: 5.5em;
+  }
+}
+html .church .know-social-icons {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+html .church .jumbotron.about {
+  padding: 150px 50px;
+}
+html .church .leadership .row .media img {
+  width: 100px;
+}
+html .church .leadership .row .media .media-body h3 {
+  font-size: 2em;
+}
+@media (min-width: 1400px) {
+  html .church .leadership .row .media .media-body h3 {
+    font-size: 3em;
+  }
+}
+html .church .leadership .row .media .media-body h3 small {
+  font-size: 14px;
+  margin-top: 1px;
+  margin-bottom: 5px;
+  display: block;
+}
+@media (min-width: 1400px) {
+  html .church .leadership .row .media .media-body h3 small {
+    font-size: 0.5em;
+  }
+}
+html .church .leadership .row .media .media-body .social-icons .fa {
+  font-size: 25px;
+  margin-right: 5px;
+}
+html .church .leadership .row .media img.img-circle {
+  width: 100px;
+  margin-right: 15px;
+  border: 1px solid #252525;
+}
+html .church .beliefs ul {
+  margin: 0;
+}
+html .church .beliefs ul li {
+  font-size: 16px;
+}
+@media (max-width: 768px) {
+  html .church .beliefs ul li {
+    padding-bottom: 20px;
+  }
+}
+@media (min-width: 1400px) {
+  html .church .beliefs ul li {
+    font-size: 1.75em;
+  }
+}
+html .church .jumbotron.serve {
+  padding: 150px 50px;
+  margin-bottom: 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), black), url(/images/pastorIke-minElijah.jpg?77df4bec28bc2b2c12647003ae1cd91c);
+  background-position: center 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+html .church .jumbotron.events {
+  padding: 150px 50px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.95)), url(/images/bbb_flyer.png?a0a4e6f02de534782a85cce2e798a5f4);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 22.5%;
+  border-radius: 0;
+}
+@media (max-width: 768px) {
+  html .church .jumbotron.events {
+    padding: 100px 0;
+  }
+}
+html .church .event__content-wrap {
+  width: 90% !important;
+}
+
+html .church .event__content-title-date {
+  color: rgba(254, 254, 254, 0.75);
+  display: block;
+  font-size: 0.5em;
+  margin: 10px 0;
+}
+
+html .church .event__content-address {
+  color: rgba(254, 254, 254, 0.75);
+  font-style: italic;
+}
+
+html .church .kingdom-man h1, html .church .kingdom-man h2, html .church .kingdom-man h3, html .church .kingdom-man h4, html .church .kingdom-man h5, html .church .kingdom-man h6 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+}
+html .church .kingdom-man .btn-primary {
+  background-color: #FFDE59;
+  border-color: #FFDE59;
+  color: #252525;
+}
+html .church .kingdom-man .btn-primary:hover {
+  background-color: #f2c200;
+  border-color: #f2c200;
+}
+html .church .kingdom-man .btn-primary.register {
+  font-size: 3em;
+}
+html .church .kingdom-man .btn-secondary {
+  background-color: #5271FF;
+  border-color: #5271FF;
+  color: #fefefe;
+}
+html .church .kingdom-man .btn-secondary:hover {
+  background-color: #395cff;
+  border-color: #395cff;
+  color: #f1f1f1;
+}
+html .church .kingdom-man .jumbotron {
+  background-image: linear-gradient(-45deg, #5271FF, rgba(56, 182, 255, 0.5)), url(/images/gtcc.jpg?d10e2bae074d6d1a4e47e765f82a93f9);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20em 0 7.5em 2.5em;
+  position: relative;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .jumbotron {
+    background-size: 100% auto;
+    padding-left: 7.5em;
+  }
+}
+html .church .kingdom-man .jumbotron h1 {
+  color: #FFDE59;
+  line-height: 0.85;
+  font-size: 8em;
+  font-style: normal;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .jumbotron h1 {
+    font-size: 12em;
+    line-height: 0.75;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-man .jumbotron h1 {
+    font-size: 14em;
+  }
+}
+html .church .kingdom-man .jumbotron h1 small {
+  color: #fefefe;
+  display: block;
+  font-size: 0.5em;
+}
+html .church .kingdom-man .jumbotron h1 small span {
+  display: block;
+  font-size: 0.4em;
+}
+html .church .kingdom-man .jumbotron h1:after {
+  border: 0.02em solid #fefefe;
+  content: "";
+  display: block;
+  margin-top: 0.2em;
+  width: 46%;
+}
+html .church .kingdom-man .jumbotron .photo {
+  background-image: url(/images/pastorike-km.png?a43d6f3e7b8865135a18648f062b1ee6);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  bottom: 0;
+  display: none;
+  height: 30em;
+  position: absolute;
+  right: 0;
+  width: 30em;
+}
+@media screen and (min-width: 510px) {
+  html .church .kingdom-man .jumbotron .photo {
+    display: block;
+  }
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .jumbotron .photo {
+    height: 35em;
+    width: 35em;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-man .jumbotron .photo {
+    height: 45em;
+    right: 5em;
+    width: 56em;
+  }
+}
+html .church .kingdom-man .jumbotron address, html .church .kingdom-man .jumbotron time {
+  font-size: 1.75em;
+  margin-bottom: 0;
+}
+html .church .kingdom-man .jumbotron .btn {
+  margin-right: 1em;
+  margin-top: 1em;
+}
+html .church .kingdom-man .jumbotron .btn:last-child {
+  margin-right: 0;
+}
+html .church .kingdom-man .wrap {
+  padding: 5em 0;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-man .wrap {
+    padding: 0;
+  }
+}
+html .church .kingdom-man .wrap h2 {
+  line-height: 0.8;
+  margin-left: auto;
+  max-width: 7em;
+}
+html .church .kingdom-man .wrap h2:after {
+  border: 0.05em solid #5271FF;
+  content: "";
+  display: block;
+  margin: 0.2em 0 0.3em auto;
+  width: 5em;
+}
+html .church .kingdom-man .wrap p {
+  margin-left: auto;
+  max-width: 26em;
+}
+html .church .kingdom-man .features {
+  background-attachment: fixed;
+  background-image: linear-gradient(45deg, rgba(82, 113, 255, 0.7), rgba(56, 182, 255, 0.95)), url(/images/gtcc.jpg?d10e2bae074d6d1a4e47e765f82a93f9);
+  background-position: top center;
+  background-repeat: no-repeat;
+  color: #5271FF;
+  padding: 10em 0;
+  margin: 0 auto;
+}
+html .church .kingdom-man .features h2 {
+  color: #FFDE59;
+}
+html .church .kingdom-man .features .card {
+  margin: 0 auto 3em;
+  max-width: 100%;
+  padding: 5em 0 10em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .features .card {
+    margin-bottom: 0;
+    max-width: 32%;
+  }
+}
+html .church .kingdom-man .features .card .fas {
+  font-size: 4em;
+  margin-bottom: 0.2em;
+}
+html .church .kingdom-man .features .card p {
+  font-size: 1.3em;
+  margin: 0 auto;
+}
+html .church .kingdom-man .features .card.fire p {
+  max-width: 17em;
+}
+html .church .kingdom-man .features .card.food p {
+  max-width: 13em;
+}
+html .church .kingdom-man .features .card.fellowship p {
+  max-width: 15em;
+}
+html .church .kingdom-man .speakers .speaker {
+  background-image: url("https://i.pravatar.cc/720");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 75%;
+  position: relative;
+}
+@media screen and (min-width: 576px) {
+  html .church .kingdom-man .speakers .speaker {
+    padding-top: 50%;
+  }
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .speakers .speaker {
+    padding-top: 33.3%;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-man .speakers .speaker {
+    padding-top: 25%;
+  }
+}
+html .church .kingdom-man .speakers .speaker.speaker-noimg {
+  background-image: none !important;
+  padding-top: 75%;
+}
+@media screen and (min-width: 576px) {
+  html .church .kingdom-man .speakers .speaker.speaker-noimg {
+    padding-top: 50%;
+  }
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .speakers .speaker.speaker-noimg {
+    padding-top: 33.3%;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-man .speakers .speaker.speaker-noimg {
+    padding-top: 25%;
+  }
+}
+html .church .kingdom-man .speakers .speaker.speaker-noimg .text-container {
+  background-image: none;
+  color: #252525;
+  opacity: 1;
+}
+html .church .kingdom-man .speakers .speaker.speaker-noimg .text-container h2 {
+  line-height: 0.8;
+  margin-right: auto;
+  max-width: 6em;
+}
+html .church .kingdom-man .speakers .speaker.speaker-noimg .text-container h2:after {
+  border: 0.05em solid #5271FF;
+  content: "";
+  display: block;
+  margin: 0.2em 0 0.3em;
+  width: 4em;
+}
+html .church .kingdom-man .speakers .speaker.speaker-noimg .text-container p {
+  margin-left: auto;
+  max-width: 26em;
+}
+html .church .kingdom-man .speakers .speaker.bishop {
+  background-image: url(/images/pastorike.jpg?2e1760b17a8d346752a751b2ee9761e1);
+}
+html .church .kingdom-man .speakers .speaker.elijah {
+  background-image: url(/images/minelijah2020.jpg?997e6d73ccf1089eb2a1a30b32931f8f);
+}
+html .church .kingdom-man .speakers .speaker.demetrius {
+  background-image: url(/images/pastorD.jpg?c38b16be601f4cdc491274e6b0787680);
+  background-position: center -7em;
+}
+html .church .kingdom-man .speakers .speaker .text-container {
+  background-image: linear-gradient(45deg, rgba(255, 222, 89, 0.9), rgba(82, 113, 255, 0.75));
+  bottom: 0;
+  color: #fefefe;
+  left: 0;
+  margin: auto;
+  padding: 25% 0 0 4em;
+  position: absolute;
+  opacity: 0;
+  right: 0;
+  top: 0;
+  transition: 0.36s all ease;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .speakers .speaker .text-container {
+    padding-top: 33.3%;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-man .speakers .speaker .text-container {
+    padding-top: 25%;
+  }
+}
+html .church .kingdom-man .speakers .speaker .text-container p {
+  max-width: 19em;
+}
+html .church .kingdom-man .speakers .speaker:hover .text-container {
+  opacity: 1;
+}
+html .church .kingdom-man .schedule {
+  background-image: linear-gradient(45deg, rgba(82, 113, 255, 0.7), rgba(56, 182, 255, 0.95));
+  padding: 10em 0;
+}
+html .church .kingdom-man .schedule > .row {
+  margin: 0 auto;
+  max-width: 96em;
+}
+html .church .kingdom-man .schedule .nav-tabs {
+  border-color: #5271FF;
+}
+html .church .kingdom-man .schedule .nav-tabs .nav-link {
+  font-size: 2em;
+}
+html .church .kingdom-man .schedule .nav-tabs .nav-link:hover {
+  border-color: #5271FF;
+}
+html .church .kingdom-man .schedule .nav-tabs .active {
+  background-color: rgba(82, 113, 255, 0.5);
+  border-color: #5271FF;
+  color: #fefefe;
+}
+html .church .kingdom-man .contact {
+  background-attachment: fixed;
+  background-image: linear-gradient(45deg, rgba(82, 113, 255, 0.7), rgba(56, 182, 255, 0.95)), url(/images/mawf.png?e42a859ee1094a9a4b0b7e82528aed8c);
+  background-position: center top;
+  background-size: 100% auto;
+  color: #fefefe;
+  padding: 10em 0;
+}
+html .church .kingdom-man .contact h2 {
+  color: #FFDE59;
+}
+html .church .kingdom-man .contact .btn {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 1em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-man .contact .btn {
+    margin-bottom: 0;
+  }
+}
+html .church .kingdom-man .contact a:not(.btn) {
+  font-size: 2em;
+  margin-right: 1em;
+}
+html .church .kingdom-man .contact a:not(.btn):last-child {
+  margin-right: 0;
+}
+html .church .kingdom-man .sponsors {
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+html .church .kingdom-man .sponsors .sponsor {
+  font-size: 2.1em;
+  padding: 1em 0;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-man .sponsors .sponsor {
+    font-size: 2.6em;
+  }
+}
+html .church .kingdom-man .sponsors .sponsor a {
+  font-family: "Open Sans", sans-serif;
+}
+html .church .kingdom-man .sponsors .sponsor img {
+  height: 64px;
+  width: auto;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-man .sponsors .sponsor img {
+    height: 100px;
+  }
+}
+html .church .kingdom-man .modal {
+  padding-top: 0;
+}
+html .church .kingdom-man .modal .close {
+  color: #fefefe;
+}
+html .church .kingdom-man .modal .modal-dialog {
+  background-color: transparent;
+  margin: 0 auto;
+  min-width: 375px;
+}
+html .church .kingdom-man .modal .modal-dialog .modal-header {
+  padding: 0;
+}
+html .church .kingdom-man .modal .modal-dialog .modal-content {
+  background-color: transparent !important;
+  border: none;
+  padding: 0;
+}
+html .church .kingdom-woman h1, html .church .kingdom-woman h2, html .church .kingdom-woman h3, html .church .kingdom-woman h4, html .church .kingdom-woman h5, html .church .kingdom-woman h6 {
+  font-family: "Pinyon Script", sans-serif;
+  font-weight: 400;
+}
+html .church .kingdom-woman .btn-primary {
+  background-color: #FFDE59;
+  border-color: #FFDE59;
+  color: #252525;
+}
+html .church .kingdom-woman .btn-primary:hover {
+  background-color: #f2c200;
+  border-color: #f2c200;
+}
+html .church .kingdom-woman .btn-primary.register {
+  font-size: 3em;
+}
+html .church .kingdom-woman .btn-secondary {
+  background-color: #3A0E74;
+  border-color: #3A0E74;
+  color: #fefefe;
+}
+html .church .kingdom-woman .btn-secondary:hover {
+  background-color: #2f0b5d;
+  border-color: #2f0b5d;
+  color: #f1f1f1;
+}
+html .church .kingdom-woman .jumbotron {
+  background-image: linear-gradient(-45deg, #3A0E74, rgba(104, 25, 207, 0.5)), url(/images/gtcc.jpg?d10e2bae074d6d1a4e47e765f82a93f9);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20em 0 7.5em 2.5em;
+  position: relative;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron {
+    background-size: 100% auto;
+    padding-left: 7.5em;
+  }
+}
+html .church .kingdom-woman .jumbotron h1 {
+  color: #FFDE59;
+  line-height: 0.5;
+  margin-left: 0.1em;
+  position: relative;
+  width: 2.38em;
+  font-size: 13em;
+  font-style: normal;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron h1 {
+    font-size: 26em;
+    line-height: 0.75;
+    margin-left: 0;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .jumbotron h1 {
+    font-size: 25em;
+    margin-left: 0.2em;
+  }
+}
+html .church .kingdom-woman .jumbotron h1 small {
+  color: #fefefe;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: -0.3em;
+  font-family: "Bebas Neue";
+  font-size: 0.2em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron h1 small {
+    top: 0.3em;
+  }
+}
+html .church .kingdom-woman .jumbotron h1 small span {
+  display: block;
+  font-size: 0.4em;
+  margin-bottom: 0.7em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron h1 small span {
+    margin-bottom: 0.1em;
+  }
+}
+html .church .kingdom-woman .jumbotron h1 .small-title {
+  bottom: 30%;
+  font-size: 0.11em;
+  left: -5%;
+  position: absolute;
+  top: 0;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron h1 .small-title {
+    left: -2%;
+  }
+}
+html .church .kingdom-woman .jumbotron .details {
+  margin-top: 5em;
+}
+html .church .kingdom-woman .jumbotron .photo {
+  background-image: url(/images/pastorike-km.png?a43d6f3e7b8865135a18648f062b1ee6);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  bottom: 0;
+  display: none;
+  height: 30em;
+  position: absolute;
+  right: 0;
+  width: 30em;
+}
+@media screen and (min-width: 510px) {
+  html .church .kingdom-woman .jumbotron .photo {
+    display: block;
+  }
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .jumbotron .photo {
+    height: 35em;
+    width: 35em;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .jumbotron .photo {
+    height: 45em;
+    right: 5em;
+    width: 56em;
+  }
+}
+html .church .kingdom-woman .jumbotron address, html .church .kingdom-woman .jumbotron time {
+  font-size: 1.75em;
+  margin-bottom: 0;
+}
+html .church .kingdom-woman .jumbotron .btn {
+  margin-right: 1em;
+  margin-top: 1em;
+}
+html .church .kingdom-woman .jumbotron .btn:last-child {
+  margin-right: 0;
+}
+html .church .kingdom-woman .wrap {
+  padding: 5em 0;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-woman .wrap {
+    padding: 0;
+  }
+}
+html .church .kingdom-woman .wrap h2 {
+  line-height: 0.8;
+  margin-left: auto;
+  max-width: 7em;
+}
+html .church .kingdom-woman .wrap h2:after {
+  border: 0.05em solid #3A0E74;
+  content: "";
+  display: block;
+  margin: 0.2em 0 0.3em auto;
+  width: 5em;
+}
+html .church .kingdom-woman .wrap p {
+  margin-left: auto;
+  max-width: 26em;
+}
+html .church .kingdom-woman .features {
+  background-attachment: fixed;
+  background-image: linear-gradient(45deg, rgba(58, 14, 116, 0.7), rgba(59, 14, 118, 0.95)), url(/images/gtcc.jpg?d10e2bae074d6d1a4e47e765f82a93f9);
+  background-position: top center;
+  background-repeat: no-repeat;
+  color: #3A0E74;
+  padding: 10em 0;
+  margin: 0 auto;
+}
+html .church .kingdom-woman .features h2 {
+  color: #FFDE59;
+}
+html .church .kingdom-woman .features .card {
+  margin: 0 auto 3em;
+  max-width: 100%;
+  padding: 5em 0 10em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .features .card {
+    margin-bottom: 0;
+    max-width: 32%;
+  }
+}
+html .church .kingdom-woman .features .card .fas {
+  font-size: 4em;
+  margin-bottom: 0.2em;
+}
+html .church .kingdom-woman .features .card p {
+  font-size: 1.3em;
+  margin: 0 auto;
+}
+html .church .kingdom-woman .features .card.fire p {
+  max-width: 17em;
+}
+html .church .kingdom-woman .features .card.food p {
+  max-width: 13em;
+}
+html .church .kingdom-woman .features .card.fellowship p {
+  max-width: 15em;
+}
+html .church .kingdom-woman .speakers .speaker {
+  background-image: url("https://i.pravatar.cc/720");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 75%;
+  position: relative;
+}
+@media screen and (min-width: 576px) {
+  html .church .kingdom-woman .speakers .speaker {
+    padding-top: 50%;
+  }
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker {
+    padding-top: 33.3%;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .speakers .speaker {
+    padding-top: 25%;
+  }
+}
+html .church .kingdom-woman .speakers .speaker.speaker-noimg {
+  background-image: none !important;
+  padding-top: 75%;
+}
+@media screen and (min-width: 576px) {
+  html .church .kingdom-woman .speakers .speaker.speaker-noimg {
+    padding-top: 50%;
+  }
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker.speaker-noimg {
+    padding-top: 33.3%;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .speakers .speaker.speaker-noimg {
+    padding-top: 25%;
+  }
+}
+html .church .kingdom-woman .speakers .speaker.speaker-noimg .text-container {
+  background-image: none;
+  color: #252525;
+  opacity: 1;
+}
+html .church .kingdom-woman .speakers .speaker.speaker-noimg .text-container h2 {
+  line-height: 0.8;
+  margin-right: auto;
+  max-width: 6em;
+}
+html .church .kingdom-woman .speakers .speaker.speaker-noimg .text-container h2:after {
+  border: 0.05em solid #3A0E74;
+  content: "";
+  display: block;
+  margin: 0.2em 0 0.3em;
+  width: 4em;
+}
+html .church .kingdom-woman .speakers .speaker.speaker-noimg .text-container p {
+  margin-left: auto;
+  max-width: 26em;
+}
+html .church .kingdom-woman .speakers .speaker.bishop {
+  background-image: url(/images/pastorike.jpg?2e1760b17a8d346752a751b2ee9761e1);
+}
+html .church .kingdom-woman .speakers .speaker.casandra {
+  background-image: url(/images/presidentCasandra.jpg?559c096294a51be0f85604a5e2c98d4b);
+  background-position: center -16em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker.casandra {
+    background-position: center;
+  }
+}
+html .church .kingdom-woman .speakers .speaker.courtney {
+  background-image: url(/images/courtney-white.jpg?67420acdb7b96cc4009a40205641fd44);
+  background-position: -6em -20em;
+  background-size: 200% auto;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker.courtney {
+    background-position: -6em -10em;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .speakers .speaker.courtney {
+    background-position: -6em -20em;
+  }
+}
+html .church .kingdom-woman .speakers .speaker.peggy {
+  background-image: url(/images/peggy.jpg?fac7ecbe87b0269ac01e57fc4ca4a44c);
+  background-position: center -5em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker.peggy {
+    background-position: center;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .speakers .speaker.peggy {
+    background-position: center -4em;
+  }
+}
+html .church .kingdom-woman .speakers .speaker .text-container {
+  background-image: linear-gradient(-45deg, rgba(255, 222, 89, 0.9), rgba(58, 14, 116, 0.75));
+  bottom: 0;
+  color: #fefefe;
+  left: 0;
+  margin: auto;
+  padding: 25% 0 0 4em;
+  position: absolute;
+  opacity: 0;
+  right: 0;
+  top: 0;
+  transition: 0.36s all ease;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .speakers .speaker .text-container {
+    padding-top: 33.3%;
+  }
+}
+@media screen and (min-width: 960px) {
+  html .church .kingdom-woman .speakers .speaker .text-container {
+    padding-top: 25%;
+  }
+}
+html .church .kingdom-woman .speakers .speaker .text-container p {
+  max-width: 19em;
+}
+html .church .kingdom-woman .speakers .speaker:hover .text-container {
+  opacity: 1;
+}
+html .church .kingdom-woman .schedule {
+  background-image: linear-gradient(45deg, rgba(58, 14, 116, 0.7), rgba(56, 182, 255, 0.95));
+  padding: 10em 0;
+}
+html .church .kingdom-woman .schedule > .row {
+  margin: 0 auto;
+  max-width: 96em;
+}
+html .church .kingdom-woman .schedule .nav-tabs {
+  border-color: #3A0E74;
+}
+html .church .kingdom-woman .schedule .nav-tabs .nav-link {
+  font-size: 2em;
+}
+html .church .kingdom-woman .schedule .nav-tabs .nav-link:hover {
+  border-color: #3A0E74;
+}
+html .church .kingdom-woman .schedule .nav-tabs .active {
+  background-color: rgba(58, 14, 116, 0.5);
+  border-color: #3A0E74;
+  color: #fefefe;
+}
+html .church .kingdom-woman .contact {
+  background-attachment: fixed;
+  background-image: linear-gradient(45deg, rgba(58, 14, 116, 0.7), rgba(59, 14, 118, 0.95)), url(/images/smnf.png?95348964467856181fdb91b77e3e6a5c);
+  background-position: center top;
+  background-size: 100% auto;
+  color: #fefefe;
+  padding: 10em 0;
+}
+html .church .kingdom-woman .contact h2 {
+  color: #FFDE59;
+}
+html .church .kingdom-woman .contact .btn {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 1em;
+}
+@media screen and (min-width: 768px) {
+  html .church .kingdom-woman .contact .btn {
+    margin-bottom: 0;
+  }
+}
+html .church .kingdom-woman .contact a:not(.btn) {
+  font-size: 2em;
+  margin-right: 1em;
+}
+html .church .kingdom-woman .contact a:not(.btn):last-child {
+  margin-right: 0;
+}
+html .church .kingdom-woman .sponsors {
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+html .church .kingdom-woman .sponsors .sponsor {
+  font-size: 2.1em;
+  padding: 1em 0;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-woman .sponsors .sponsor {
+    font-size: 2.6em;
+  }
+}
+html .church .kingdom-woman .sponsors .sponsor a {
+  font-family: "Open Sans", sans-serif;
+}
+html .church .kingdom-woman .sponsors .sponsor img {
+  height: 64px;
+  width: auto;
+}
+@media screen and (min-width: 959px) {
+  html .church .kingdom-woman .sponsors .sponsor img {
+    height: 100px;
+  }
+}
+html .church .kingdom-woman .modal {
+  padding-top: 0;
+}
+html .church .kingdom-woman .modal .close {
+  color: #fefefe;
+}
+html .church .kingdom-woman .modal .modal-dialog {
+  background-color: transparent;
+  margin: 0 auto;
+  min-width: 375px;
+}
+html .church .kingdom-woman .modal .modal-dialog .modal-header {
+  padding: 0;
+}
+html .church .kingdom-woman .modal .modal-dialog .modal-content {
+  background-color: transparent !important;
+  border: none;
+  padding: 0;
+}
+html .church .jumbotron.locations {
+  padding: 150px 50px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.95)), url(/images/map.png?2398b38ba0288ab30cf7e5527cf92dd0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 22.5%;
+  border-radius: 0;
+}
+@media (max-width: 768px) {
+  html .church .jumbotron.locations {
+    padding: 100px 0;
+  }
+}
+.card-title {
+  font-size: 0.6em;
+}
+
+.card-text {
+  font-size: 1.5em;
+}
+
+html .church .location-modal.modal .modal-dialog {
+  width: 50%;
+}
+
+html .church .location-modal.modal .modal-content {
+  background-color: #fefefe !important;
+  border-radius: 10px;
+  color: #252525;
+  padding: 20px 0;
+}
+html .church .location-modal.modal .modal-content p, html .church .location-modal.modal .modal-content address {
+  font-size: 1.3em;
+}
+html .church .location-modal.modal .modal-content table {
+  font-size: 1.3em;
+}
+html .church .location-modal.modal .modal-content table th {
+  padding-right: 15px;
+}
+html .church .location-modal.modal .modal-content form label {
+  font-size: 1.3em;
+}

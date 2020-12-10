@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="{{ url('/') }}">
         <img src="{{ asset('church/img/actionlogo.png') }}" alt="{{ asset('church/img/actionlogo.png') }}" class="d-inline-block align-top" />
         ACTION Christian Center
@@ -15,7 +15,7 @@
                 <a class="nav-link" href="{{ url('about') }}">About</a>
             </li>
             <li class="nav-item {{ Request::is('locations') ? 'active' : ""}}">
-                <a class="nav-link" href="{{ url('locations') }}" target="_blank">Locations</a>
+                <a class="nav-link" href="{{ url('locations') }}">Locations</a>
             </li>
             <li class="nav-item {{ Request::is('events') ? 'active' : ""}}">
                 <a class="nav-link" href="{{ url('events') }}">Events</a>
@@ -27,3 +27,4 @@
         </ul>
     </div>
 </nav>
+@include('church.partials.notifications')
