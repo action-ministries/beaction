@@ -1,0 +1,69 @@
+.jumbotron.locations {
+    padding: 150px 50px;
+    background: {
+      image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, .95)), url("../img/map.png");
+      repeat: no-repeat;
+      size: cover;
+      position: center 22.5%;
+    }
+    border: {
+        radius: 0;
+    }
+  
+    @media(max-width: 768px) {
+      padding: 100px 0;
+    }
+  
+    &:first-of-type {
+      margin-top: 100px;
+    }
+}
+
+.locations {
+   @at-root .card {
+        @at-root &-title {
+            font-size: 0.6em;
+        }
+
+        @at-root &-text {
+            font-size: 1.5em;
+        }
+    }
+}
+
+.location-modal.modal {
+    .modal {
+        @at-root &-dialog {
+            width: 50%;
+        }
+
+        @at-root &-content {
+            background: {
+                color: $white !important;
+            }
+            border: {
+                radius: 10px;
+            }
+            color: $black;
+            padding: 20px 0;
+
+            p, address {
+                font-size: 1.3em;
+            }
+
+            table {
+                font-size: 1.3em;
+
+                th {
+                    padding-right: 15px;
+                }
+            }
+
+            form {
+                label {
+                    font-size: 1.3em;
+                }
+            }
+        }
+    }
+}

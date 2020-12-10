@@ -47,3 +47,45 @@ $snapchat: #FFFB00;
 .snapchat-text {
   color: $snapchat;
 }
+
+.btn {
+  @at-root &-outline-salmon {
+    color: $salmon;
+    border-color: $salmon;
+
+    &:hover {
+      background-color: $salmon;
+      color: $white;
+    }
+  }
+
+  @at-root &-outline-purple {
+    color: $purple;
+    border-color: $purple;
+
+    &:hover {
+      background-color: $purple;
+      color: $white;
+    }
+  }
+
+  @at-root &-outline-blue {
+    color: $blue;
+    border-color: $blue;
+
+    &:hover {
+      background-color: $blue;
+      color: $white;
+    }
+  }
+
+  @at-root &-outline-yellow {
+    color: $yellow;
+    border-color: $yellow;
+
+    &:hover {
+      background-color: $yellow;
+      color: $black;
+    }
+  }
+}
