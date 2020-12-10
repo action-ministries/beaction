@@ -50,7 +50,11 @@
     margin: 0 !important;
   }
 }
-
+.mobile-mb15 {
+  @media screen and (max-width: 767px) {
+    margin-bottom: 15px;
+  }
+}
 .mb15 {
   margin-bottom: 15px;
 }

@@ -7,7 +7,7 @@
     </div>
     <!-- Revival -->
     <div class="row text-center locations pv60">
-        <div class="col-lg-4 offset-md-2">
+        <div class="col-lg-4 offset-md-2 mobile-mb15">
             <div class="card">
                 <img src="{{ asset('church/img/Greentree_plain.png') }}" class="card-img-top" />
                 <div class="card-body">
@@ -30,8 +30,8 @@
                 <div class="card-title"><h2>ACTION Christian Center - North</h2></div>
                     <div class="card-text">
                         <address>
-                        <br>2138 Morning Mist Ct.<br>
-                            Florissant, MO 63033
+                            <br>2138 Morning Mist Ct.<br>
+                                Florissant, MO 63033
                         </address>
                     </div>
                     <button class="btn btn-outline-salmon" data-toggle="modal" data-target="#north-modal">Service Times</button>
@@ -53,7 +53,7 @@
                 <div class="modal-body">
                     <div class="container-fluid">
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-6 mobile-mb15">
                                 <img src="{{ asset('church/img/2138.png') }}" class="card-img-top" />
                             </div>
                             <div class="col-lg-6">
@@ -100,7 +100,7 @@
                 <div class="modal-body">
                     <div class="container-fluid">
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-6 mb15">
                                 <img src="{{ asset('church/img/Greentree_plain.png') }}" class="card-img-top" />
                             </div>
                             <div class="col-lg-6">
@@ -129,7 +129,7 @@
                 <div class="modal-footer">
                     <form class="form-inline" action="http://maps.google.com/maps" method="get" target="_blank">
                         <label class="mr-2" for="saddr">Enter your location</label>
-                        <input class="form-control mr-2" type="text" name="saddr" />
+                        <input class="form-control modal-directions mr-2" type="text" name="saddr" />
                         <input type="hidden" name="daddr" value="Jeannine's Beautique 131 W. Monroe Avenue Kirkwood, MO 63122" />
                         <!-- <input type="hidden" name="daddr" value="Greentree Community Church 100 Kirkwood Pl. Kirkwood MO 63122" /> -->
                         <input class="btn btn-outline-success" type="submit" value="Get Directions" />
