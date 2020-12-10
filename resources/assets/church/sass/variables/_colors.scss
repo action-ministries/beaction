@@ -11,6 +11,7 @@ $facebook: #3B5998;
 $instagram: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
 $twitter: #0084FF;
 $snapchat: #FFFB00;
+$cashapp: #12C44F;
 
 
 .darkbg {
@@ -86,6 +87,17 @@ $snapchat: #FFFB00;
     &:hover {
       background-color: $yellow;
       color: $black;
+    }
+  }
+
+  @at-root &-cashapp {
+    background-color: $cashapp;
+    color: $white;
+
+    &:hover {
+      background-color: $white;
+      border-color: $cashapp;
+      color: $cashapp !important;
     }
   }
 }

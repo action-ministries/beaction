@@ -23,6 +23,9 @@
             <li class="nav-item {{ Request::is('serve') ? 'active' : ""}}">
                 <a class="nav-link" href="{{ url('serve') }}">Serve</a>
             </li>
+            <li class="nav-item {{ Request::is('giving') ? 'active' : ""}}">
+                <a class="btn btn-cashapp" target="_blank" href="//cash.app/$beaction">Giving</a>
+            </li>
             {{--<li class="nav-item"><button class="btn btn-primary" id="planModalButton">Plan A Visit</button></li>--}}
         </ul>
     </div>

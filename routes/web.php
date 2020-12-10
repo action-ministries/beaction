@@ -48,6 +48,10 @@ $churchRoutes = function() {
     Route::get('/locations', function() {
         return view('church.pages.locations');
     });
+
+    // Route::get('/giving', function() {
+    //     return view('church.pages.giving');
+    // });
 };
 
 // Ministry Routes
