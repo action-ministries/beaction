@@ -44,6 +44,10 @@ $churchRoutes = function() {
     Route::get('/womens-event', function () {
         return view('church.pages.womens-event');
     });
+
+    Route::get('/locations', function() {
+        return view('church.pages.locations');
+    });
 };
 
 // Ministry Routes

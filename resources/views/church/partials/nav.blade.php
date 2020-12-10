@@ -14,15 +14,15 @@
             <li class="nav-item {{ Request::is('about') ? 'active' : ""}}">
                 <a class="nav-link" href="{{ url('about') }}">About</a>
             </li>
+            <li class="nav-item {{ Request::is('locations') ? 'active' : ""}}">
+                <a class="nav-link" href="{{ url('locations') }}" target="_blank">Locations</a>
+            </li>
             <li class="nav-item {{ Request::is('events') ? 'active' : ""}}">
-                <a class="nav-link" href="{{ url('events') }}">Upcoming Events</a>
+                <a class="nav-link" href="{{ url('events') }}">Events</a>
             </li>
             <li class="nav-item {{ Request::is('serve') ? 'active' : ""}}">
                 <a class="nav-link" href="{{ url('serve') }}">Serve</a>
             </li>
-            {{-- <li class="nav-item {{ Request::is('connect') ? 'active' : ""}}">
-                <a class="nav-link" href="{{ route('ministry-home') }}" target="_blank">Ministry Home <i class="fas fa-external-link-alt"></i></a>
-            </li> --}}
             {{--<li class="nav-item"><button class="btn btn-primary" id="planModalButton">Plan A Visit</button></li>--}}
         </ul>
     </div>
