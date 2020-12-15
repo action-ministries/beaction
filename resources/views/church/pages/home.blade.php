@@ -59,10 +59,6 @@
                 <div class="wrap">
                     <h2>Let's Meet!</h2>
                     <p>
-                        Located inside Greentree Community Church, we have Sunday Services starting
-                        at 2pm in the lower level. Park in the rear. Notify us of your coming and
-                        we’ll make sure to greet you in the parking lot.
-
                         ACC has two locations for your convience. We have a North location, near the City of Florissant,
                         and a South location, in the City of Kirkwood. Get more information about each location by visiting
                         the locations page.
