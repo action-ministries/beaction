@@ -53,12 +53,21 @@
     <div class="row purplebg flip">
         <div class="row">
             <div class="col-lg-6 nopad">
-                <iframe width="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3119.0886648983765!2d-90.40787868478776!3d38.57780597962123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d8cc2fd980eadd%3A0xcbfef48f2d591bd5!2sGreentree+Community+Church!5e0!3m2!1sen!2sus!4v1535778563600" frameborder="0" style="border:0;vertical-align:middle;" allowfullscreen></iframe>
+                <img src="{{ asset('church/img/locations.png') }}" class="img-fluid" />
             </div>
             <div class="col-lg-6 nopad content">
                 <div class="wrap">
                     <h2>Let's Meet!</h2>
-                    <p>Located inside Greentree Community Church, we have Sunday Services starting at 2pm in the lower level. Park in the rear. Notify us of your coming and we’ll make sure to greet you in the parking lot.</p>
+                    <p>
+                        Located inside Greentree Community Church, we have Sunday Services starting
+                        at 2pm in the lower level. Park in the rear. Notify us of your coming and
+                        we’ll make sure to greet you in the parking lot.
+
+                        ACC has two locations for your convience. We have a North location, near the City of Florissant,
+                        and a South location, in the City of Kirkwood. Get more information about each location by visiting
+                        the locations page.
+                    </p>
+                    <a href="{{ url('locations') }}" class="btn btn-outline-light">Locations</a>
                 </div>
             </div>
         </div>
