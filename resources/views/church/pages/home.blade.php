@@ -5,7 +5,7 @@
         <div class="row">
             <div class="hero-text col-lg-5 offset-lg-6">
                 <h1 class="title">A Place For You</h1>
-                <p class="sub-title">ACC-South is a place just for you. No matter where you are in your walk with Christ, we're here to support you.</p>
+                <p class="sub-title">ACC is a place just for you. No matter where you are in your walk with Christ, we're here to support you.</p>
             </div>
         </div>
     </div>
@@ -44,7 +44,7 @@
             <div class="col-lg-6 nopad content">
                 <div class="wrap">
                     <h2>Discover Jesus!</h2>
-                    <p>At ACC-South, children recieve great, age-appropiate, bibical teaching. They're walked through the great Bible stories and after each class, they take time for a short recess in the playground.</p>
+                    <p>At ACC, children recieve great, age-appropiate, bibical teaching. They're walked through the great Bible stories and after each class, they take time for a short recess in the playground.</p>
                 </div>
             </div>
         </div>
