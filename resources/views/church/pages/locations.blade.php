@@ -118,8 +118,9 @@
 
                                 <h4>Temporary Location</h4>
                                 <address>
-                                    Jeannine's Beautique<br>
-                                    131 W. Monroe Avenue<br>
+                                    First Baptist Church of Meacham Park<br>
+                                    Educational Center<br>
+                                    314 Meacham St.<br>
                                     Kirkwood, MO 63122
                                 </address>
                             </div>
@@ -130,7 +131,7 @@
                     <form class="form-inline" action="http://maps.google.com/maps" method="get" target="_blank">
                         <label class="mr-2" for="saddr">Enter your location</label>
                         <input class="form-control modal-directions mr-2" type="text" name="saddr" />
-                        <input type="hidden" name="daddr" value="Jeannine's Beautique 131 W. Monroe Avenue Kirkwood, MO 63122" />
+                        <input type="hidden" name="daddr" value="314 Meacham St, Kirkwood, MO 63122" />
                         <!-- <input type="hidden" name="daddr" value="Greentree Community Church 100 Kirkwood Pl. Kirkwood MO 63122" /> -->
                         <input class="btn btn-outline-success" type="submit" value="Get Directions" />
                     </form>
