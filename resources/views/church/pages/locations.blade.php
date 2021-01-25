@@ -75,7 +75,7 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <form class="form-inline" action="http://maps.google.com/maps" method="get" target="_blank">
+                    <form class="form-inline" action="https://maps.google.com/maps" method="get" target="_blank">
                         <label class="mr-2" for="saddr">Enter your location</label>
                         <input class="form-control mr-2" type="text" name="saddr" />
                         <input type="hidden" name="daddr" value="2138 Morning Mist Ct. Florissant, MO 63033" />
@@ -128,7 +128,7 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <form class="form-inline" action="http://maps.google.com/maps" method="get" target="_blank">
+                    <form class="form-inline" action="https://maps.google.com/maps" method="get" target="_blank">
                         <label class="mr-2" for="saddr">Enter your location</label>
                         <input class="form-control modal-directions mr-2" type="text" name="saddr" />
                         <input type="hidden" name="daddr" value="314 Meacham St, Kirkwood, MO 63122" />
