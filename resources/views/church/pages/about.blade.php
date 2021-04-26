@@ -46,7 +46,7 @@
                     <div class="media-body align-self-center">
                         <h3 class="mt-0">
                             Casandra D.
-                            <small class="text-muted">Cheif of Staff/ALIVE President</small>
+                            <small class="text-muted">Chief of Staff/ALIVE President</small>
                         </h3>
                     </div>
                 </div>
