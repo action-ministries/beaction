@@ -116,7 +116,7 @@
                                     </tr>
                                 </table>
 
-                                <h4>Temporary Location</h4>
+                                <h4>FNOWJ Location</h4>
                                 <address>
                                     First Baptist Church of Meacham Park<br>
                                     Educational Center<br>
@@ -131,7 +131,7 @@
                     <form class="form-inline" action="https://maps.google.com/maps" method="get" target="_blank">
                         <label class="mr-2" for="saddr">Enter your location</label>
                         <input class="form-control modal-directions mr-2" type="text" name="saddr" />
-                        <input type="hidden" name="daddr" value="314 Meacham St, Kirkwood, MO 63122" />
+                        <input type="hidden" name="daddr" value="100 Kirkwood Pl, Kirkwood, MO 63122" />
                         <!-- <input type="hidden" name="daddr" value="Greentree Community Church 100 Kirkwood Pl. Kirkwood MO 63122" /> -->
                         <input class="btn btn-outline-success" type="submit" value="Get Directions" />
                     </form>
