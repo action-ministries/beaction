@@ -6,7 +6,7 @@
         <h1>Upcoming Events</h1>
     </div>
     <!-- Thursday Night Prayer -->
-    <div class="row yellowbg event">
+    <div class="row purplebg event">
         <div class="row">
             <div class="col-lg-6 nopad">
                 <img src="{{ asset('church/img/thursdayNightPrayerCall.png') }}" class="img-fluid event__image" />
