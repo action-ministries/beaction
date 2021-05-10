@@ -13,8 +13,12 @@
             </div>
             <div class="col-lg-6 nopad content text-right event__content">
                 <div class="wrap event__content-wrap">
-                    <h2 class="event__content-title">Thursday Night Prayer Call<small class="event__content-title-date">Every Thursday <a href="tel:4254266367">(425) 436-6367</a> <strong>Access Code: 6117659#</strong></small></h2>
-                    <p>Every Thursday night we gather together to pray together. How can we pray for you? Call in let us know, we would love if you joined in as well.</p>
+                    <h2 class="event__content-title">Thursday Night Prayer Call<small class="event__content-title-date">Every Thursday <a href="tel:4254266367">(425)436-6367</a></small></h2>
+                    <p>Every Thursday night we gather together to pray together. How can we pray for you? Call in let us know, we would love if you joined in as well.
+                        <br><br>
+                        <strong>Phone Number:</strong> (425)436-6367<br>
+                        <strong>Access Code:</strong> 6117659#
+                    </p>
                 </div>
             </div>
         </div>
