@@ -30,4 +30,4 @@
         </ul>
     </div>
 </nav>
-@include('church.partials.notifications')
+{{-- @include('church.partials.notifications') --}}
