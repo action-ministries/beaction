@@ -64,8 +64,8 @@
                                         <td>6pm - 7:30pm</td>
                                     </tr>
                                     <tr>
-                                        <th>Friday Night Out with Jesus</th>
-                                        <td>7pm - 9pm</td>
+                                        <th>Sunday Morning Service</th>
+                                        <td>10:30am - 12:00pm</td>
                                     </tr>
                                 </table>
                                 <h4>Notes</h4>
@@ -111,18 +111,14 @@
                                         <td>6pm - 7:30pm</td>
                                     </tr>
                                     <tr>
-                                        <th>Friday Night Out with Jesus</th>
-                                        <td>7pm - 9pm</td>
+                                        <th>Friday Night Out With Jesus</th>
+                                        <td>7:00pm - 9:00pm</td>
                                     </tr>
-                                </table>
-
-                                <h4>FNOWJ Location</h4>
-                                <address>
-                                    First Baptist Church of Meacham Park<br>
-                                    Educational Center<br>
-                                    314 Meacham St.<br>
-                                    Kirkwood, MO 63122
-                                </address>
+                                    <tr>
+                                        <th>Sunday Afternoon Service</th>
+                                        <td>2:00pm - 3:30pm</td>
+                                    </tr>
+                                </table>  
                             </div>
                         </div>
                     </div>
