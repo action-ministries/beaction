@@ -107,7 +107,7 @@
                                 <h4>Service Times</h4>
                                 <table class="mb15">
                                     <tr>
-                                        <th>Wednesday</th>
+                                        <th>Tuesday Night Bible Study</th>
                                         <td>6pm - 7:30pm</td>
                                     </tr>
                                     <tr>
@@ -118,7 +118,17 @@
                                         <th>Sunday Afternoon Service</th>
                                         <td>2:00pm - 3:30pm</td>
                                     </tr>
-                                </table>  
+                                </table>
+                                <h4>Note:</h4>
+                                <p>
+                                    Tuesday Night Bible Study is held at:<br />
+                                    <address>
+                                        Crown Royal Motorcycle Club <br />
+                                        333 Memphis St.<br />
+                                        Kirkwood, MO 63122
+                                    </address>
+
+                                </p>
                             </div>
                         </div>
                     </div>
